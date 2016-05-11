@@ -18,8 +18,8 @@
     margin: 0
     display: table-cell
     vertical-align: middle
-    font-family: sketch
-    text-transform: uppercase
+    font-family: oswald
+    text-transform: uppercase;
     text-shadow: 1px 1px 1px black
     background-color: rgba(0, 0, 0, .5)
     font-size: 7em
@@ -32,7 +32,7 @@ body.home #billboard
   background-image: url('assets/img/billboards/home.jpg')
   height: 540px
   h1:before
-    content: "Hello from Boston!"
+    content: "We Ship Software"
 body.services #billboard
   background-image: url('assets/img/billboards/services.jpg')
   h1:before
@@ -71,3 +71,18 @@ body.contact #billboard
   #billboard
     h1
       font-size: 3em
+
+p.billboard-buttons
+  margin-top: -15em
+  position: absolute
+  width: 1024px
+  text-align: center
+
+  a.buttonLink
+    float: none
+    margin: 0 3em
+
+
+@media (max-width: 1023px)
+  p.billboard-buttons
+    display: none
