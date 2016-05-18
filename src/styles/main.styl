@@ -11,9 +11,14 @@ article
     font-family: oswald
     line-height: 1em
 
+  @media (max-width: 767px)
+    h1
+      font-size: 1.8em
+      text-align: left !important
+
   h6
     font-size: 1em
-    font-family: 'Oswald', sans-serif
+    font-family: oswald
     margin: 0
 
   a
@@ -40,6 +45,8 @@ article
     margin-bottom: 1em
     font-size: 1.5em
     line-height: 1.5em
+    @media (max-width: 767px)
+      font-size: 1.3em
 
   .buttonLink
     background-color: OrangeRed
@@ -48,6 +55,9 @@ article
     float: left
     padding: .5em 1em
     transition: all 0.1s ease
+    @media (max-width: 767px)
+      padding: .3em .67em
+      margin-bottom: 1em
 
     i
       font-size: 1.2em
@@ -163,10 +173,9 @@ article
     border-top: 1px LightSteelBlue dashed
     margin: 3em 1.5em
 
-  .service
-    ul
-      margin: 0
-      padding: 0
+  .service ul
+    margin: 0
+    padding: 0
 
 .imgBox
   background-position: center center
@@ -176,6 +185,8 @@ article
   height: 100px
   margin: 2.5%
   display: inline-block
+  @media (max-width: 767px)
+    width: 45%
 
 body.blog main article
   img
