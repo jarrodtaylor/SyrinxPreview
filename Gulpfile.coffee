@@ -43,6 +43,10 @@ renderBlogIndex = (content) ->
 
 gulp.task 'clean', -> del options.dist
 
+gulp.task 'cname', ['clean'], ->
+  gulp.src "#{options.src}/CNAME"
+    .pipe gulp.dest options.dist
+
 gulp.task 'buildAssets', ['clean'], ->
   gulp.src "#{options.src}/assets/**/*"
     .pipe gulp.dest "#{options.dist}/assets"
@@ -100,7 +104,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
       archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.title}</a></p>"
   fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString()
 
-gulp.task 'build', ['buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog']
+gulp.task 'build', ['cname', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog']
 
 gulp.task 'connect', -> connect.server root: options.dist, livereload: true
 
