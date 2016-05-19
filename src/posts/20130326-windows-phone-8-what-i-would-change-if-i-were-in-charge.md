@@ -1,15 +1,13 @@
 title: Windows Phone 8 - What I would change if I were in charge
+link: http://blogs.syrinx.com/uncategorized/windows-phone-8-what-i-would-change-if-i-were-in-charge/
 
 +++
-
 
 # Windows Phone 8: What I would change if I were in charge
 
 Coming from an Android background I had grown very used to some things. Not all of them were present, or if present working the same, in WP8. I had HTC phones when on Android, so some of this is Sense-influenced and not stock Android. My Windows Phone 8 is HTC as well, so some things may differ slightly for Nokia folks.
 
- 
-
-Major:
+## Major:
 
   * Android supports speech to text on EVERY text field you encounter. Any time you might use the keyboard, there is a microphone button on the keyboard if you want to speak it instead. Not just emails and text, but Skype messages, calendar item entries, form input on web forms, etc. And the engine knew how to punctuate, so you could say "Andrew comma newline newline How are you question mark hope this kids are well period" and you would get exactly that as if you typed it, with correct capitalization and punctuation. WP8 only does STT on searches, mail, and texts as far as I can tell. It does do some slick things to try to infer punctuation. I ended a sentence with "what" in it with a rising pitch at the end and it put a question mark in. I prefer to drive this, though. WP8 please copy Android verbatim here!
   * Getting a non-Exchange mail and calendar and contact setup to work involved significant Googling and tweaking. Much more so than it should have. I'll do another article on this. 
@@ -25,28 +23,21 @@ Major:
 
 To the left of the spacebar on the keyboard for every Android text input- the Microphone for speech to text. 
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/2013-03-22_10-57-52.png?w=650)
-
- 
+![Image](/assets/img/blog/2013-03-22_10-57-52.png)
 
 Phone numbers and emails and web addresses show up in calendar reminders and are live links on Android. You don't even see the body of the event on Windows. 
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/2013-03-22_17-00-05.png?w=650)
-
- 
+![Image](/assets/img/blog/2013-03-22_17-00-05.png)
 
 Windows phone event notification, no body info, let alone hyperlinked info
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/wp_ss_20130320_0001.png?w=650)
-
- 
+![Image](/assets/img/blog/wp_ss_20130320_0001.png)
 
 I liked folders. Ben said there may be something like this in WP8. I have not found it yet.
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/2013-03-22_17-00-57.png?w=650)
+![Image](/assets/img/blog/2013-03-22_17-00-57.png)
 
-
-Minor:
+## Minor:
 
   * On Android I could hit power, drag the camera to the "unlock ring" and be taking pictures pretty quickly. On WP8 the camera button should work even if the phone is locked, waking it up and putting it into camera mode instantly (assuming no password has been set for unlock)
   * I miss the Notifications "window shade" pull down, and the ability to stop playing music from there, switch to recent apps, etc.
@@ -60,16 +51,15 @@ Minor:
 
 Dragging the camera into the unlock ring on my lock screen was MUCH faster than starting the camera on my WP8.
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/2013-03-25_14-26-29.png?w=650)
-
- 
+![Image](/assets/img/blog/2013-03-25_14-26-29.png)
 
 I liked the power widget on Android, which showed me at a glance which items were on AND allowed me to toggle them on/off right there without opening Settings (second from the top, under the Google search widget)
 
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/2013-03-22_16-57-17.png?w=650)
-
+![Image](/assets/img/blog/2013-03-22_16-57-17.png)
 
 Nice to have:
+
+![Image](/assets/img/blog/wp_ss_20130322_0004.png)
 
   * I liked having the app Tasker on Android to do things like "If I plug in power, I am likely in the car, so enable Bluetooth, turn up Bluetooth volume all the way, disable Wifi, and wait a couple seconds and click 'stop' on the Media player" and "If I unplug, I am likely at home or work, so disable Bluetooth and enable Wifi"
   * The wider app store on Android does have some gems like WiFi Analyzer, not available in WP8. WP8 seems to be in between the extremes of Google Play Market's "almost everything good is FREE!!" and Apple's App Store "Almost everything good is PAID, or requires in-app purchase". 
@@ -78,5 +68,3 @@ Nice to have:
   * Someone already built a gong application. I'll have to come up with something else for my demo app.
 
 Well, I guess I need a new idea for a demo app. 
-
-![Image](http://syrinx.cl-subdomains.com/wp-content/uploads/sites/72/2013/03/wp_ss_20130322_0004.png?w=650)
