@@ -6,9 +6,11 @@ permalink: /404.html
 <head>
   <title>Syrinx - Not Found</title>
   <script>
-    var previousPage = document.referrer;
-    console.log(previousPage);
-    if (previousPage.indexOf("/hangout") > -1) { window.location = "http://tinyurl.com/syrinxhangout"; }
+    if (window.location.href.indexOf("/hangout") > -1) {
+      window.location = "http://tinyurl.com/syrinxhangout";
+    } else {
+      window.location = "http://www.syrinx.com/";
+    }
   </script>
 </head>
 <body>
