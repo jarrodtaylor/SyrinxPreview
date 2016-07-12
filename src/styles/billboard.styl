@@ -32,6 +32,8 @@
 body.home #billboard
   background-image: url('assets/img/billboards/home.jpg')
   height: 540px
+  h1
+    padding-bottom: .5em
   h1:before
     content: "We Ship Software"
 body.services #billboard
@@ -84,7 +86,7 @@ body.xamarin #billboard
       font-size: 3em
 
 p.billboard-buttons
-  margin-top: -15em
+  margin-top: -18em
   position: absolute
   width: 1024px
   text-align: center
@@ -93,6 +95,15 @@ p.billboard-buttons
     float: none
     margin: 0 3em
 
+  a.blogRotator
+    clear: both
+    display: inline-block
+    margin-top: 4em
+    background-color: rgba(255, 255, 255, .67)
+    text-decoration: none
+    padding: 3px 7px
+    font-style: italic
+    color: black
 
 @media (max-width: 1023px)
   p.billboard-buttons
