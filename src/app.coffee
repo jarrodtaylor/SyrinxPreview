@@ -22,7 +22,6 @@ filterPosts = ->
     for post in posts
       do (post) -> post.style.display = 'block'
 
-# insertMarkdown('https://raw.githubusercontent.com/wiki/Syrinx/Syrinx.github.io/Jobs!.md', 'content');
 insertMarkdown = (from, into) ->
   xhr = new XMLHttpRequest()
   xhr.open('GET', from)
