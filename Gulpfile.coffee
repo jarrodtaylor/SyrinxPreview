@@ -46,6 +46,7 @@ gulp.task 'clean', -> del options.dist
 gulp.task 'misc', ['clean'], ->
   gulp.src("#{options.src}/CNAME").pipe gulp.dest(options.dist)
   gulp.src("#{options.src}/googlee887f98b5ed76460.html").pipe gulp.dest(options.dist)
+  gulp.src("#{options.src}/robots.txt").pipe gulp.dest(options.dist)
 
 gulp.task 'buildAssets', ['clean'], ->
   gulp.src "#{options.src}/assets/**/*"
@@ -76,11 +77,12 @@ gulp.task 'buildMarkdown', ['clean'], ->
     .pipe through.obj (chunk, enc, callback) ->
       post = fs.readFileSync(chunk.path, 'utf8').split('+++')
       meta = yaml.load(post[0]); content = post[1]
-      meta['endpoint'] = chunk.path.replace('.md', '.html').split('/').slice(-1)[0]
+      meta['endpoint'] = chunk.path.replace('.md', '.html').split('/').slice(-1)[0].split('-').slice(1).join('-')
       date = chunk.path.split('-')[0].split('/').slice(-1)[0]
       meta['date'] = "#{date.substring(0, 4)}-#{date.substring(4, 6)}-#{date.substring(6, 8)}"
       chunk.contents = render markdown.toHTML content
-      chunk.path = chunk.path.replace '.md', '.html'
+      path = chunk.path.replace('.md', '.html')
+      chunk.path = chunk.path.replace('.md', '.html').replace(date + '-', '')
       this.push chunk
       archive_list.push meta
       callback null, chunk

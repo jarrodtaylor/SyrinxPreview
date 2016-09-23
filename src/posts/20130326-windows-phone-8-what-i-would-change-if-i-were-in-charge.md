@@ -35,7 +35,7 @@ Windows phone event notification, no body info, let alone hyperlinked info
 
 I liked folders. Ben said there may be something like this in WP8. I have not found it yet.
 
-![Image](/assets/img/blog/2013-03-22_17-00-57.png)
+![Image](/assets/img/blog/2013-03-22_17-00-57.jpg)
 
 ## Minor:
 
@@ -51,11 +51,11 @@ I liked folders. Ben said there may be something like this in WP8. I have not fo
 
 Dragging the camera into the unlock ring on my lock screen was MUCH faster than starting the camera on my WP8.
 
-![Image](/assets/img/blog/2013-03-25_14-26-29.png)
+![Image](/assets/img/blog/2013-03-25_14-26-29.jpg)
 
 I liked the power widget on Android, which showed me at a glance which items were on AND allowed me to toggle them on/off right there without opening Settings (second from the top, under the Google search widget)
 
-![Image](/assets/img/blog/2013-03-22_16-57-17.png)
+![Image](/assets/img/blog/2013-03-22_16-57-17.jpg)
 
 Nice to have:
 
