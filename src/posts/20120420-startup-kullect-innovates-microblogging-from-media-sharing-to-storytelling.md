@@ -10,7 +10,7 @@ These days, taking a look at a Facebook news feed, Twitter timeline, or Instagra
 
 ![](/assets/img/blog/kullect.png)
 
-UCLA grads Sasank Reddy and Jeff Mascia have attempted to change this current state of blogging with their young social media app, [Kullect](http://www.kullect.com/). Recently [walking away with Best Startup honors at the Where 2012 Conference](http://blog.kullect.com/post/20537753067/kullect-voted-best-startup-at-where-2-0), Reddy and Mascia have developed an app that aims to categorize media into user-defined collections (or "kullections") in an effort to organize the stream that is our lives.
+UCLA grads Sasank Reddy and Jeff Mascia have attempted to change this current state of blogging with their young social media app, Kullect. Recently [walking away with Best Startup honors at the Where 2012 Conference](http://blog.kullect.com/post/20537753067/kullect-voted-best-startup-at-where-2-0), Reddy and Mascia have developed an app that aims to categorize media into user-defined collections (or "kullections") in an effort to organize the stream that is our lives.
 
 A Kullect post can be a location (a la Foursquare), a photo, a 10 second video clip, or a 250 word message, which is the categorized into a collection that can be anything the user desires -- be it concerts, favorite restaurants, etc. This allows for not only friends who follow you to see patterns and trends, but also allows you to keep tabs on things you share.
 

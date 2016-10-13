@@ -35,4 +35,4 @@ All of this should make it clear why mobile payments can be so valuable for fuel
 
 By embracing mobile payments for their pump and retail systems, fueling station businesses can position themselves at the forefront of their industry. 
 
-To learn more about how Cumberland Farms benefited from its own mobile payment solution, check out [this case study](http://www.syrinx.com/cases/Cumberland.11.11.14.pdf).
+To learn more about how Cumberland Farms benefited from its own mobile payment solution, check out [this case study](https://www.syrinx.com/assets/downloads/Cumberland.11.11.14.pdf).

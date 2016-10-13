@@ -17,4 +17,4 @@ Vordel links all enterprise applications, users, and devices across Cloud, mobil
 
 To learn more and obtain a free evaluation of Vordel's products, go to: http://www.vordel.com and follow us on [twitter](https://twitter.com/#!/vordel) and our [Blogs](http://www.vordel.com/company/news/index.html)
 
-We will be co-presenting with Vordel at SharePoint Saturday in Boston on April 28, 2012. The presentation will be on accessing Sharepoint based portals across distributed environments. If you are interested in attending or would like more info, be sure to [follow us on Twitter](http://www.twitter.com/syrinxccinc) or visit the [Sharepoint Saturdays site](http://www.sharepointsaturday.org/boston/default.aspx).
+We will be co-presenting with Vordel at SharePoint Saturday in Boston on April 28, 2012. The presentation will be on accessing Sharepoint based portals across distributed environments. If you are interested in attending or would like more info, be sure to [follow us on Twitter](http://www.twitter.com/syrinxccinc) or visit the [Sharepoint Saturdays site](http://www.sharepointsaturday.org/).

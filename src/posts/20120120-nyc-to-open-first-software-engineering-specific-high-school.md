@@ -5,7 +5,7 @@ link: http://blogs.syrinx.com/enterprise-application-development/nyc-to-open-fir
 
 # NYC to open first software engineering specific high school
 
-It's no secret that the fierce demand for software engineers and programmers, whose overall employment [is expected to increase by 21%](http://www.bls.gov/oco/ocos303.htm#outlook) between 2008 and 2018, has made computer science degrees highly coveted by college students and employers alike. Last year, Stanford saw a [40% increase in students declaring a computer science major](http://www.cio.com/article/551115/Want_a_Job_Get_a_Computer_Science_Degree), while Georgia Tech reported placing 87% of their CS undergrads in jobs.
+It's no secret that the fierce demand for software engineers and programmers, whose overall employment is expected to increase by 21% between 2008 and 2018, has made computer science degrees highly coveted by college students and employers alike. Last year, Stanford saw a [40% increase in students declaring a computer science major](http://www.cio.com/article/551115/Want_a_Job_Get_a_Computer_Science_Degree), while Georgia Tech reported placing 87% of their CS undergrads in jobs.
 
 On Tuesday Engadget reported that, in response to this hot skill set, [New York City will be opening its first software engineering-centric public school](http://www.engadget.com/2012/01/17/nyc-opening-its-first-pubic-high-school-dedicated-to-software-en/) in September 2012. The school, aptly named the Academy for Software Engineering, will provide a haven for aspiring coders to get build a solid foundation of knowledge before starting their post-secondary education.
 

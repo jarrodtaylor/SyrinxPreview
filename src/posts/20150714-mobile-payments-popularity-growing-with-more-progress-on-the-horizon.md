@@ -41,4 +41,4 @@ A high degree of integration will prove critical in this capacity. Specifically,
 
 With such a solution in place, companies can use their mobile payments technology as a powerful selling point and competitive advantage.
 
-To see a more in-depth example of how a company radically benefited from a customized mobile payments solution, [download this case study](http://www.syrinx.com/cases/Cumberland.11.11.14.pdf) today.
+To see a more in-depth example of how a company radically benefited from a customized mobile payments solution, [download this case study](https://www.syrinx.com/assets/downloads/Cumberland.11.11.14.pdf) today.

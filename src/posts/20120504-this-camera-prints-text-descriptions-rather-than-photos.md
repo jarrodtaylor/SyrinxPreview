@@ -22,9 +22,6 @@ Much to the dismay, I'm sure, of the techies reading this, there's no magic ingr
 
 Richards reports that by setting the reward of each HIT at $1.25, he usually gets results back within 3-6 minutes. The site has its own approval and reputation system, which deters users from providing poor results. Some examples from the camera are below:
 
-![This is a faded picture of a dilapidated building. It seems to be run down and in the need of repirs.](http://mattrichardson.com/Descriptive-Camera/images/building.jpg)
-
-
     	-----------------------------------
     	| |                             | |
     	| |                             | |
@@ -40,9 +37,6 @@ Richards reports that by setting the reward of each HIT at $1.25, he usually get
     	|                                 |
     	-----------------------------------
 
-![Looks like a cupboard which is ugly and old having name plates on it with a study lamp attached to it.](http://mattrichardson.com/Descriptive-Camera/images/bins.jpg)
-
-
     	-----------------------------------
     	| |                             | |
     	| |                             | |
@@ -57,9 +51,6 @@ Richards reports that by setting the reward of each HIT at $1.25, he usually get
     	|                                 |
     	|                                 |
     	-----------------------------------
-
-![Corner of a wood floored room with a tool chest, bike, stack of books, box leaning against the wall, an open door with a bag hanging off the doorknob, and a pair of closed double doors with cables hanging on the handles.](http://mattrichardson.com/Descriptive-Camera/images/room.jpg)
-
 
     	-----------------------------------
     	| |  Corner of a wood floored   | |

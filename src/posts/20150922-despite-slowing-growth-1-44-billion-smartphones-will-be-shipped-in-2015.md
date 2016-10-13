@@ -16,7 +16,7 @@ It should be noted that shipments don't equate to sales and the IDC report notes
 **New markets will determine continued growth**  
 Despite a slowing economy, China is still considered to be a critical barometer for smartphone growth. In 2014, it was responsible for 32.3 percent of all new shipments, the report said, and while growth in China is only predicted to be 1.2 percent in 2015, there is no doubt that it remains a major contributor to overall volumes.
 
-Apple CEO Tim Cook has spoken publicly about [the importance of China](http://www.bbc.com/news/technology-34051997) in terms of smartphone and mobile device growth and, as cited by the BBC, recently emailed CNBC's Jim Kramer—the host of Mad Money—about the "[unprecedented opportunity](https://twitter.com/carlquintanilla/status/635799629947404288/photo/1)" that the country would afford in the long term. Apple products are popular in China, especially among the middle classes, but the IDC report says that the Indian sub-continent is worthy of increased consideration.
+Apple CEO Tim Cook has spoken publicly about [the importance of China](http://www.bbc.com/news/technology-34051997) in terms of smartphone and mobile device growth and, as cited by the BBC, recently emailed CNBC's Jim Kramer—the host of Mad Money—about the "unprecedented opportunity" that the country would afford in the long term. Apple products are popular in China, especially among the middle classes, but the IDC report says that the Indian sub-continent is worthy of increased consideration.
 
 According to IDC program director Ryan Reith, China's position as a leading consumer of smartphones will come under increased pressure from India as more vendors introduce cheaper versions of leading phones into the country.
 
