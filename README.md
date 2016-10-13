@@ -16,7 +16,7 @@ Deploy to Development Server
 
 If you haven't added the dev server repo yet (requires the Heroku toolbelt and maybe some permissions):
 ```bash
-git remote add heroku https://git.heroku.com/quiet-atoll-36270.git
+git remote add heroku https://git.heroku.com/syrinx-preview.git
 ```
 
 Then deploy the `develop` branch:
@@ -24,7 +24,7 @@ Then deploy the `develop` branch:
 git push heroku develop:master
 ```
 
-And preview at: https://quiet-atoll-36270.herokuapp.com
+And preview at: https://syrinx-preview.herokuapp.com
 
 Deploy to Production Server
 ---------------------------
