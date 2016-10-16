@@ -8,6 +8,7 @@
 #
 #   ~/syrinx $ gulp deploy
 #   # => Deploys the dist/ directory to Github Pages.
+glob     = require 'glob'
 gulp     = require 'gulp'
 coffee   = require 'gulp-coffee'
 concat   = require 'gulp-concat'
@@ -39,6 +40,10 @@ renderBlog = (content) ->
 
 renderBlogIndex = (content) ->
   template = fs.readFileSync("#{options.src}/blogIndex.mustache", 'utf8')
+  new Buffer mustache.render template, {}, content: content
+
+renderSitemap = (content) ->
+  template = fs.readFileSync("#{options.src}/sitemap.xml", 'utf8')
   new Buffer mustache.render template, {}, content: content
 
 gulp.task 'clean', -> del options.dist
@@ -106,7 +111,17 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
       archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.title}</a></p>"
   fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString()
 
-gulp.task 'build', ['misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog']
+gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog'], ->
+  stamp = new Date()
+  sitemap_list = "<url><loc>http://www.syrinx.com/</loc><lastmod>#{stamp}</lastmod></url>"
+  glob "#{options.dist}/**/*.html", (err, files) ->
+    for file in files
+      do (file) ->
+        file = file.replace('dist/', 'https://www.syrinx.com/')
+        sitemap_list += "<url><loc>#{file}</loc><lastmod>#{stamp}</lastmod></url>"
+    fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
+
+gulp.task 'build', ['misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog', 'buildSitemap']
 
 gulp.task 'connect', -> connect.server root: options.dist, livereload: true
 
