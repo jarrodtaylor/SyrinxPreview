@@ -3,7 +3,13 @@ permalink: /404.html
 ---
 
 <script>
-  if (window.location.href.indexOf("/hangout") > -1) { window.location = "http://tinyurl.com/syrinxhangout"; }
+  if (window.location.href.indexOf("blogs.syrinx.com") > -1) {
+    var path = window.location.href.split("/")
+    if (path[path.length-1] == "") { delete path[path.length-1] } // In case there's a / at the end of the url.
+    window.location = "https://www.syrinx.com/blog/" + path[path.length-1] + ".html"
+  }
+  else if (window.location.href.indexOf("/blogs") > -1) { window.location = "https://www.syrinx.com/blog"; }
+  else if (window.location.href.indexOf("/hangout") > -1) { window.location = "http://tinyurl.com/syrinxhangout"; }
   else if (window.location.href.indexOf("/about/management.aspx") > -1) { window.location = "https://www.syrinx.com/company"; }
   else if (window.location.href.indexOf("/services/sharepoint.aspx") > -1) { window.location = "https://www.syrinx.com/services"; }
   else if (window.location.href.indexOf("/about/news/SyrinxBBJRank&Promotions_FNL_11.17.08.pdf") > -1) { window.location = "https://www.syrinx.com/blog"; }
