@@ -2,13 +2,14 @@ title: The Future of Voice Recognition Software | Syrinx Blog
 
 +++
 
-# Talking to a device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life. How far can voice recognition software take us?
+# How Far Can Voice Recognition Software Take Us?
+Talking to a device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life.
 
 > The Future Is Here: The Evolution of Voice Recognition Software. 
 
 Speaking into a digital device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life. It may have started with smartphones and cars, but current voice recognition software lets people do a lot more than “call Joe” or find the address for a nearby restaurant. TVs, alarm systems and even appliances can be controlled by a voice commands these days, as developers are now able to connect the functionality of these applications to voice recognition software.
 
-The ability to communicate with our devices has been a goal of researchers since as far back as 1936, when Bell Laboratory ran a trial of electronic speech synthesis, [notes Digitalist Magazine](http://www.digitalistmag.com/digital-economy/2016/01/21/future-of-voice-recognition-03956592) contributor Geetika Shukla. In the 1950s, says an [article from the MIT Technology Review](https://www.technologyreview.com/s/602714/first-computer-to-match-humans-in-conversational-speech-recognition/), new computers could recognize as many as 10 words if spoken by one person. By the 1990s, machines could create decent transcripts based on the spoken word.
+The ability to communicate with our devices has been a goal of researchers since as far back as 1936, when Bell Laboratory ran a trial of electronic speech synthesis, notes Digitalist Magazine contributor Geetika Shukla. In the 1950s, says an article from the MIT Technology Review, new computers could recognize as many as 10 words if spoken by one person. By the 1990s, machines could create decent transcripts based on the spoken word.
 
 Since then, the technology has improved enormously, mostly in the last 10 years or so. Voice activation software is now beginning to simulate a real person, or an assistant, who performs tasks and finds answers when asked to do so. Users can tell devices equipped with voice-control to find a phone number, get directions, set reminders and alarms, play music, search the web, send a text message, turn on and off lights, or change TV programming – and that’s just a short list. But all of these conveniences are not the only reason voice recognition technology is becoming more of a reality.
 
@@ -18,7 +19,7 @@ Since then, the technology has improved enormously, mostly in the last 10 years 
 
 By allowing hands-free interaction, voice recognition allows for multi-tasking and increased productivity. Imagine someone is cooking in a home kitchen while listening to music through a speaker system. This person needs to also simultaneously create a digital grocery list based on the ingredients being used up and check the traffic report to see if his or her spouse will be coming home late. Conveniently, this can all be done with simple voice commands. If all these tasks had to be done separately by hand, it would take much longer.
 
-In today’s culture, people are always looking for ways to be more efficient, and voice-activated commands make that easier by removing the need to type every letter out on a keyboard or search, scroll and click to find information. Mary Meeker, a well-known financial analyst, spoke at a conference in southern California recently and told attendees [her prediction](https://www.theguardian.com/technology/2016/jun/01/mary-meeker-voice-controlled-tech-boom-technology-predictions) that 50 percent of all searches online will be done through voice and image by 2020. It’s hardly an outlandish prediction, as voice control is more natural and may allow people to be more productive.
+In today’s culture, people are always looking for ways to be more efficient, and voice-activated commands make that easier by removing the need to type every letter out on a keyboard or search, scroll and click to find information. Mary Meeker, a well-known financial analyst, spoke at a conference in southern California recently and told attendees her prediction that 50 percent of all searches online will be done through voice and image by 2020. It’s hardly an outlandish prediction, as voice control is more natural and may allow people to be more productive.
 
 **What does the future of voice recognition software look like?**
 
@@ -38,11 +39,11 @@ As these new solutions emerge in the voice recognition market, current systems a
 
 **Integrating voice recognition with existing technology:**
 
-Whether for commercial or in-house interfaces and workflows, there are two primary ways to add voice recognition software to an existing application. The first is mainly for developers, as it entails implementation and requires coding knowledge. Several companies, such as Google, Apple and Amazon, offer software development kits (SDKs) that include software libraries, code samples and documentation to assist in the integration of speech recognition capabilities into a platform.The second, and best, option when looking to integrate voice recognition technology with existing systems is to hire a [software development company](http://www.syrinx.com/company/) to do it for you. A professional can also build a new system with verbal capabilities if a total refresh of old software is necessary.
+Whether for commercial or in-house interfaces and workflows, there are two primary ways to add voice recognition software to an existing application. The first is mainly for developers, as it entails implementation and requires coding knowledge. Several companies, such as Google, Apple and Amazon, offer software development kits (SDKs) that include software libraries, code samples and documentation to assist in the integration of speech recognition capabilities into a platform.The second, and best, option when looking to integrate voice recognition technology with existing systems is to hire a software development company to do it for you. A professional can also build a new system with verbal capabilities if a total refresh of old software is necessary.
 
 Although it is not likely that electronic devices will soon be equivalent to humans, advancing technologies are making devices smarter. This includes improving voice recognition and making a system’s understanding of speech more realistic and natural. As research and development continue, voice-controlled technology will likely play a bigger role in daily life and the latest and greatest devices will have to include speech recognition software to keep up with user demand.
 
-If you have a business that needs upgraded systems or products to stay competitive, Syrinx Consulting can help. We are a software development firm that can integrate voice control capabilities into a new or existing platform. [Contact Syrinx](http://www.syrinx.com/contact/) with questions about how we can incorporate speech recognition into your business.
+*[Contact Syrinx](http://www.syrinx.com/contact/) with questions about how we can incorporate speech recognition into your business.*
 
 **Resources**
 - [MobileIndustryReview.com](http://www.mobileindustryreview.com/2014/10/voice-recognition-come-of-age.html)
