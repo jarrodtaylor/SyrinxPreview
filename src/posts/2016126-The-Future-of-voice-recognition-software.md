@@ -7,7 +7,7 @@ Talking to a device to accomplish tasks used to be a futuristic dream. For many,
 
 > The Future Is Here: The Evolution of Voice Recognition Software. 
 
-Speaking into a digital device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life. It may have started with smartphones and cars, but current voice recognition software lets people do a lot more than “call Joe” or find the address for a nearby restaurant. TVs, alarm systems and even appliances can be controlled by a voice commands these days, as developers are now able to connect the functionality of these applications to voice recognition software.
+Speaking into a digital device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life. It may have started with smartphones and cars, but current voice recognition software lets people do a lot more than “call Joe” or find the address for a nearby restaurant. TVs, alarm systems and even appliances can be controlled by voice commands these days, as developers are now able to connect the functionality of these applications to voice recognition software.
 
 The ability to communicate with our devices has been a goal of researchers since as far back as 1936, when Bell Laboratory ran a trial of electronic speech synthesis, notes Digitalist Magazine contributor Geetika Shukla. In the 1950s, says an article from the MIT Technology Review, new computers could recognize as many as 10 words if spoken by one person. By the 1990s, machines could create decent transcripts based on the spoken word.
 
