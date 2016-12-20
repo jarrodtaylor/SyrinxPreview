@@ -102,6 +102,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
         post = fs.readFileSync("#{options.src}/posts/#{file}", 'utf8').split('+++')[1]
         index += markdown.toHTML post
         index += '<hr />'
+    fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
     fs.writeFile "#{options.dist}/blog/index.html", render renderBlogIndex(index).toString()
 
   archive_list = archive_list.reverse()
@@ -109,6 +110,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
   for meta in archive_list
     do (meta) ->
       archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.title}</a></p>"
+  fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
   fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString()
 
 gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog'], ->
