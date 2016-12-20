@@ -16,6 +16,7 @@ connect  = require 'gulp-connect'
 del      = require 'del'
 fs       = require 'fs'
 htmlmin  = require 'gulp-htmlmin'
+imagemin = require 'gulp-imagemin'
 markdown = require('markdown').markdown
 mustache = require 'mustache'
 pages    = require 'gulp-gh-pages'
@@ -53,8 +54,8 @@ gulp.task 'misc', ['clean'], ->
   gulp.src("#{options.src}/googlee887f98b5ed76460.html").pipe gulp.dest(options.dist)
   gulp.src("#{options.src}/robots.txt").pipe gulp.dest(options.dist)
 
-gulp.task 'buildAssets', ['clean'], ->
-  gulp.src "#{options.src}/assets/**/*"
+gulp.task 'buildAssets', ['clean', 'buildOptimizedImages'], ->
+  gulp.src ["#{options.src}/assets/**/*", "!#{options.src}/assets/img/**/*"]
     .pipe gulp.dest "#{options.dist}/assets"
 
 gulp.task 'buildStylus', ['clean'], ->
@@ -122,6 +123,11 @@ gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'build
         file = file.replace('dist/', 'https://www.syrinx.com/')
         sitemap_list += "<url><loc>#{file}</loc><lastmod>#{stamp}</lastmod></url>"
     fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
+
+gulp.task 'buildOptimizedImages', [], ->
+  gulp.src "#{options.src}/assets/img/**/*"
+    .pipe imagemin()
+    .pipe gulp.dest "#{options.dist}/assets/img"
 
 gulp.task 'build', ['misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog', 'buildSitemap']
 
