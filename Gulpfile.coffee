@@ -107,6 +107,7 @@ gulp.task 'buildMarkup', ['clean'], ->
       else if basename == 'index.html'
         meta.canonical = options.base_url
         
+      meta = merge meta, data.attributes
       chunk.contents = render data.body, meta
       this.push chunk
       callback null
