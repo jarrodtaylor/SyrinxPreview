@@ -90,9 +90,12 @@ gulp.task 'buildMarkup', ['clean'], ->
       dirname = path.dirname relative
       basename = path.basename relative
 
-      title = basename.replace('.html','').replace('-', ' ').trim()
+      if basename == 'index.html' && relative.indexOf(basename) != 0
+        title = dirname.replace(/-/g, ' ').trim()
+      else
+        title = basename.replace('.html','').replace(/-/g, ' ').trim()
 
-      if title.length > 0
+      if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx'
 
       data = fm String(chunk.contents)
@@ -104,7 +107,7 @@ gulp.task 'buildMarkup', ['clean'], ->
       
       if basename == 'index.html' && relative.indexOf(basename) != 0
         meta.canonical = options.base_url + dirname + '/'
-      else if basename == 'index.html'
+      else if relative == 'index.html'
         meta.canonical = options.base_url
         
       meta = merge meta, data.attributes
@@ -120,7 +123,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       basename = path.basename chunk.path
       title = basename.replace('.md','').split('-').slice(1).join(' ').trim()
 
-      if title.length > 0
+      if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx Blog'
 
       data = fm String(chunk.contents)
