@@ -122,14 +122,17 @@ gulp.task 'buildMarkdown', ['clean'], ->
     .pipe through.obj (chunk, enc, callback) ->
       basename = path.basename chunk.path
       title = basename.replace('.md','').split('-').slice(1).join(' ').trim()
+      archive_title = title;
 
       if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx Blog'
+        archive_title = toTitleCase(archive_title)
 
       data = fm String(chunk.contents)
       meta = {}
       meta._file = basename
       meta.title = title || options.default_title
+      meta.archive_title = archive_title || ''
       meta.endpoint = basename.replace('.md', '.html').split('-').slice(1).join('-').toLowerCase()
       meta.canonical = options.base_url + 'blog/' + meta.endpoint
       date = basename.split('-')[0]
@@ -147,7 +150,12 @@ gulp.task 'buildMarkdown', ['clean'], ->
 
 gulp.task 'buildBlog', ['buildMarkdown'], ->
   index = ""
-  meta_blog = { title: 'Syrinx Blog', canonical: options.base_url + 'blog/' }
+  meta_blog = {
+    title: 'Software Development Blog from Syrinx',
+    description: "Syrinx's blog is where users can find news, insights, theories, and more from the Massachusetts software development firm.",
+    canonical: options.base_url + 'blog/'
+  }
+
   fs.readdir "#{options.src}/posts/", (err, files) ->
     for file in files.reverse()[0..2]
       do (file) ->
@@ -160,18 +168,21 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
     fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
     fs.writeFile "#{options.dist}/blog/index.html", render renderBlogIndex(index).toString(), meta_blog
   
-  meta_blog_archives = { title: 'Syrinx Blog Archives', canonical: options.base_url + 'blog/archive.html' }
+  meta_blog_archives = {
+    title: 'Syrinx Blog Archives',
+    canonical: options.base_url + 'blog/archive.html'
+  }
   archive_list = archive_list.reverse()
   archive = ""
   for meta in archive_list
     do (meta) ->
-      archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.title}</a></p>"
+      archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.archive_title}</a></p>"
   fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
   fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString(), meta_blog_archives
 
 gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog'], ->
   lastmod = new Date().toISOString()
-  sitemap_list = "<url><loc>http://www.syrinx.com/</loc><lastmod>#{lastmod}</lastmod></url>"
+  sitemap_list = "<url><loc>" + options.base_url + "</loc><lastmod>#{lastmod}</lastmod></url>"
   glob "#{options.dist}/**/*.html", (err, files) ->
     for file in files
       do (file) ->
