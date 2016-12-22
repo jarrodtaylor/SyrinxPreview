@@ -1,9 +1,11 @@
-title: LinkedIn most popular network among recruiters, but is Twitter ready to push for the title?
+---
+title: LinkedIn and Recruiters, Can Twitter Make a Push
+description: As the effectiveness of job boards continues to decline, top recruiters are constantly searching for alternative methods to source candidates.
+archive_title: LinkedIn most popular network among recruiters, but is Twitter ready to push for the title?
 link: http://blogs.syrinx.com/uncategorized/linkedin-most-popular-network-among-recruiters-but-is-twitter-ready-to-push-for-the-title/
+---
 
-+++
-
-# LinkedIn most popular network among recruiters, but is Twitter ready to push for the title?
+# LinkedIn and Recruiters, Can Twitter Make a Push
 
 As the effectiveness of job boards continues to decline, top recruiters constantly searching for alternative methods to source candidates. Social media has proven to be the next logical step, with no other online resource providing as much connectivity or personal information.
 

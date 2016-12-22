@@ -1,9 +1,10 @@
-title: Despite slowing growth, 1.44 billion smartphones will be shipped in 2015
+---
+title: Despite Slowing, 1.44 Billion Smartphones Shipped
+description: Smartphone sales across the globe may be slowing down but unit shipments will continue to grow, according to the latest IDC quarterly report.
+archive_title: Despite slowing growth, 1.44 billion smartphones will be shipped in 2015
+---
 
-+++
-
-
-# Despite slowing growth, 1.44 billion smartphones will be shipped in 2015
+# Despite Slowing, 1.44 Billion Smartphones Shipped
 
 Smartphone sales across the globe may be slowing down but unit shipments will continue to grow, according to the latest quarterly report from the International Data Corporation.
 

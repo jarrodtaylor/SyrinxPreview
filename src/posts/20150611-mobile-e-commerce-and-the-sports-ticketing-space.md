@@ -1,9 +1,10 @@
-title: Mobile e-commerce and the sports ticketing space
+---
+title: Mobile E-Commerce and the Sports Ticketing Space
+description: By building out, expanding and improving mobile e-commerce, ticket sellers, venues and teams themselves attract new fans and increase bottom lines 
+archive_title: Mobile e-commerce and the sports ticketing space
+---
 
-+++
-
-
-# Mobile e-commerce and the sports ticketing space
+# Mobile E-Commerce and the Sports Ticketing Space
 
 Even mobile e-commerce's biggest backers and enthusiasts must be surprised and pleased by the growth of this space. Whereas just a few years ago, most consumers were naturally uncertain about purchasing products and services via mobile apps and websites, nowadays such a process is exceedingly common and increasingly popular in a wide range of industries.
 

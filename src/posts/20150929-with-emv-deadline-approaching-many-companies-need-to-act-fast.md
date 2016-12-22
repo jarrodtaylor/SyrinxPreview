@@ -1,9 +1,10 @@
-title: With EMV deadline approaching, many companies need to act fast
+---
+title: EMV Deadline, Companies Need to Act Fast
+description: The deadline to adopt EMV standards is October 1. You might think the majority of companies would have achieved this goal by now but that is not so.
+archive_title: With EMV deadline approaching, many companies need to act fast
+---
 
-+++
-
-
-# With EMV deadline approaching, many companies need to act fast
+# EMV Deadline, Companies Need to Act Fast
 
 The deadline for merchants and card issuers to adopt EMV standards is October 1. Given that this date is just around the corner, you might think that the majority of companies would have achieved this goal by now, or at the very least would be well on their way toward doing so.
 

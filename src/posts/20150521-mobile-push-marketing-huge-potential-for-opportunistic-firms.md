@@ -1,9 +1,10 @@
-title: Mobile push marketing - Huge potential for opportunistic firms
+---
+title: Mobile Push Marketing&#58; Huge Potential for Firms
+description: The value that mobile push marketing has to offer is obvious. More than half of all smartphone owners enable push messaging on their devices.
+archive_title: Mobile push marketing - Huge potential for opportunistic firms
+---
 
-+++
-
-
-# Mobile push marketing: Huge potential for opportunistic firms
+# Mobile Push Marketing: Huge Potential for Firms
 
 At first glance, the announcement that Verizon is acquiring AOL for $4.4 billion seems pretty inexplicable. While AOL was a powerhouse in the late 1990s and early 2000s, when it was by far the largest and most widely-known Internet service provider in the United States, those days are long passed. Today, hardly anyone relies on AOL for Internet access, and many people probably don't realize the company is still alive and kicking.
 

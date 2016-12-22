@@ -1,9 +1,10 @@
-title: What does an open source .NET framework mean for you? [VIDEO]
+---
+title: What an Open Source .NET Framework Means (Video)
+description: Microsoft announced that its new .NET Core offering would be open source. Sounds great, right? But what exactly does that mean for your business?
+archive_title: What does an open source .NET framework mean for you? [VIDEO]
+---
 
-+++
-
-
-# What does an open source .NET framework mean for you? [VIDEO]
+# What an Open Source .NET Framework Means For You?
 
 Transcript
 

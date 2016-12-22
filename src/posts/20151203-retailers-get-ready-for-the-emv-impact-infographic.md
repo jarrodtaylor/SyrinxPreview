@@ -1,9 +1,10 @@
-title: Retailers Get Ready for the EMV Impact [Infographic]
+---
+title: Retailers Get Ready for the EMV Impact by Syrinx
+description: Retailers can deploy EMV payment systems, but first, businesses must understand the procedures, risks and benefits of EMV-supporting technologies.
+archive_title: Retailers Get Ready for the EMV Impact [Infographic]
+---
 
-+++
-
-
-# Retailers Get Ready for the EMV Impact [Infographic]
+# Retailers Get Ready for the EMV Impact
 
 As October 1 approached, retailers struggled to implement systems that could support the microchip-based EMV payment cards. That deadline came and passed, however, and many brands still do not have the technology in place to accept the relatively new form of debit and credit cards. The good news is that those retailers can still deploy EMV payment systems, but first, businesses must understand the procedures, risks and benefits of implementing EMV-supporting technologies.
 

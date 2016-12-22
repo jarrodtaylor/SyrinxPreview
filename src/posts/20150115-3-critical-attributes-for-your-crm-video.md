@@ -1,8 +1,10 @@
-title: 3 critical attributes for your CRM [VIDEO]
+---
+title: 3 Critical Attributes For Your CRM by Syrinx
+description: Syrinx has identified 3 critical attributes every CRM deployment should have&#58; customizability, compatibility, and applicability.
+archive_title: 3 critical attributes for your CRM [VIDEO]
+---
 
-+++
-
-# 3 critical attributes for your CRM [VIDEO]
+# 3 Critical Attributes For Your CRM by Syrinx
 
 Transcript 
 

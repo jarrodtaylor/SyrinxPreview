@@ -1,9 +1,11 @@
-title: "The Days of Ad-Free Skyping are Ending"
+---
+title: The Days of Ad-Free Skyping are Ending
+description: Skype's free users are going to have to suffer constant advertisements, which may cause many of them to begin turning away from the service.
+archive_title: The Days of Ad-Free Skyping are Ending
 link: http://blogs.syrinx.com/uncategorized/the-days-of-ad-free-skyping-are-ending/
+---
 
-+++
-
-# "The Days of Ad-Free Skyping are Ending"
+# The Days of Ad-Free Skyping are Ending
 
 On June 12 around noon, Skype announced something that all users dread. The well known video-chat program is going to be [implementing advertisements](http://techcrunch.com/2012/06/13/skype-for-windows-now-features-conversation-ads/) during one-on-one Skype-to-Skype audio calls. Just when we thought it couldn't get any worse with advertisements completely flooding YouTube videos, Skype decides to drop this news on us.
 

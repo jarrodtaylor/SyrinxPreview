@@ -1,8 +1,10 @@
-title: Waterfall or Agile? It depends on your company
+---
+title: Waterfall or Agile? It Depends on Your Company
+description: The benefits of Agile software development strategies over the Waterfall model have been discussed, but is Agile the best choice for everyone?
+archive_title: Waterfall or Agile? It depends on your company
+---
 
-+++
-
-# Waterfall or Agile? It depends on your company
+# Waterfall or Agile? It Depends on Your Company
 
 There are plenty of articles dissecting the benefits of employing Agile software development strategies over the Waterfall model, but is Agile really the best choice for everyone? 
 

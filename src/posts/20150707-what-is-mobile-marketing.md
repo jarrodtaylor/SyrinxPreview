@@ -1,9 +1,10 @@
-title: What is mobile marketing?
+---
+title: What is Mobile Marketing? By Syrinx
+description: Mobile marketing is the use of advertisements and other material to connect with consumers via mobile devices, including smartphones and tablets.
+archive_title: What is mobile marketing?
+---
 
-+++
-
-
-# What is mobile marketing?
+# What is Mobile Marketing?
 
 What is mobile marketing? This may seem like an obvious question, but it's worth considering. After all, there's no way for an organization to truly thrive in this area unless it completely understands what mobile marketing is, how it operates and why it can prove to be so powerful. 
 

@@ -1,9 +1,10 @@
-title: Modern mobile app - Payments, rewards, customer service
+---
+title: Mobile Apps&#58; Payments, Rewards, & Customer Service
+description: Mobile payment apps have a role to play in adoption, but more importantly, those apps need to give individuals an incentive to open them.
+archive_title: Modern mobile app - Payments, rewards, customer service
+---
 
-+++
-
-
-# Modern mobile apps: Payments, rewards, customer service
+# Mobile Apps: Payments, Rewards, & Customer Service
 
 Mobile apps are a great tool that brands can use to foster loyalty among their customers. However, first, companies must create a reason for consumers to download and regularly access their apps. Mobile payment apps have a role to play in adoption, but more importantly, those apps need to give individuals an incentive to open them. Enter loyalty programs on mobile apps.
 

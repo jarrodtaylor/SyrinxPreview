@@ -1,7 +1,8 @@
+---
 title: What Does The Future Hold For Mobile Apps?
+archive_title: What Does The Future Hold For Mobile Apps?
 link: http://blogs.syrinx.com/mobile-development/what-does-the-future-hold-for-mobile-apps/
-
-+++
+---
 
 # What Does The Future Hold For Mobile Apps?
 

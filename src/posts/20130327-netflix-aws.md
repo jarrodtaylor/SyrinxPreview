@@ -1,9 +1,12 @@
-title: Netflix & AWS
+---
+title: Netflix & Amazon Web Services by Syrinx
+description: Despite large content licensing costs, Netflix continues to expand its offerings. Running on an AWS infrastructure continues to benefit Netflix.
+archive_title: Netflix & AWS
 link: http://blogs.syrinx.com/web-services/netflix-aws/
+---
 
-+++
+# Netflix & Amazon Web Services
 
-# Netflix & AWS
 
 Cloud services are all around us these days and we use them all the time. Do you use Yelp! or on your Android or iPhone? Do you know it uses Amazon Web Services (AWS – an Infrastructure as a Service cloud offering)? Let’s go bigger … How about Netflix instant streaming? It ALSO uses AWS, since late 2009 in fact. Netflix was founded in 1997 and started as a small, mail-DVD-to-you service. Then in 1999, Netflix began digital content streaming. Within 10 years, the number of subscribers exploded to 10 million. And today … over 33 million! How do you deal with that kind of expansion and data center scaling? Furthermore, why Amazon? Their own streaming video service, Amazon Instant Video, launched in 2006. Why give business to your, arguably, biggest rival? There are other cloud providers: Azure and Rackspace to name a couple. Why give your competition business? Presumably, during a proof of concept phase, AWS supported most or all of their use cases at a good price. Turns out, this relationship isn’t as weird as it seems. After all, many retailers run some, or their entire, infrastructure on AWS, all of which are in direct competition with Amazon. The way this works is Amazon manages and maintains its AWS infrastructure separately from their other offerings.
 

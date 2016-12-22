@@ -1,9 +1,10 @@
-title: API management can lead to innovation, but obstacles remain
+---
+title: API Management and Innovation, Obstacles Remain
+description: With the right approach, API management can and should play a major role in a firm's mobile app development and distribution efforts.
+archive_title: API management can lead to innovation, but obstacles remain
+---
 
-+++
-
-
-# API management can lead to innovation, but obstacles remain
+# API Management and Innovation, Obstacles Remain
 
 Most business leaders today appreciate the importance of making application development a key component of their broader corporate strategies. Apps can deliver value in terms of marketing, customer experience and loyalty, brand building and more. 
 

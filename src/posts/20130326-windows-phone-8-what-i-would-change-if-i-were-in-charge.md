@@ -1,9 +1,11 @@
-title: Windows Phone 8 - What I would change if I were in charge
+---
+title: Windows Phone 8&#58; What I Would Change
+description: Coming from an Android background I had grown very used to some things. Not all of them were present, or if present working the same, in WP8.
+archive_title: Windows Phone 8 - What I would change if I were in charge
 link: http://blogs.syrinx.com/uncategorized/windows-phone-8-what-i-would-change-if-i-were-in-charge/
+---
 
-+++
-
-# Windows Phone 8: What I would change if I were in charge
+# Windows Phone 8: What I Would Change
 
 Coming from an Android background I had grown very used to some things. Not all of them were present, or if present working the same, in WP8. I had HTC phones when on Android, so some of this is Sense-influenced and not stock Android. My Windows Phone 8 is HTC as well, so some things may differ slightly for Nokia folks.
 

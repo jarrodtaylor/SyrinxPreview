@@ -1,10 +1,11 @@
-title: Google Maps for Android goes indoors, MBTA among early adopters
+---
+title: Google Maps Goes Indoors, MBTA are Early Adopters
+description: It's not often that Android users can gloat to iPhone users about app exclusivity, but the latest Google Maps update gives them the opportunity.
+archive_title: Google Maps for Android goes indoors, MBTA among early adopters
 link: http://blogs.syrinx.com/mobile-development/google-maps-for-android-goes-indoors-mbta-among-early-adopters/
+---
 
-+++
-
-
-# Google Maps for Android goes indoors, MBTA among early adopters
+# Google Maps Goes Indoors, MBTA are Early Adopters
 
 It seems like it's not often that Android users can gloat to their iPhone counterparts about app exclusivity, but the latest Google Maps update gives them the opportunity.
 

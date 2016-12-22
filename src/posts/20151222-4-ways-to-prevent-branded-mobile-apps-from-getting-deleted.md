@@ -1,9 +1,10 @@
-title: 4 ways to prevent branded mobile apps from getting deleted
+---
+title: Prevent Branded Mobile Apps from Getting Deleted
+description: Getting consumers to keep a branded mobile app on a device should be a high priority, and this is particular for companies in competitive sectors.
+archive_title: 4 ways to prevent branded mobile apps from getting deleted
+---
 
-+++
-
-
-# 4 ways to prevent branded mobile apps from getting deleted
+# 4 Ways to Prevent Branded Mobile Apps from Getting Deleted
 
 Developing a mobile app might be a popular way to attract and retain customers, but it certainly isn't easy. Brands must acquire the personnel, a platform and roadmap before they even begin on their mobile app development journeys. This is obviously pretty challenging for organizations that have never ventured into this arena before. That said, there are always opportunities to partner with experienced third-party firms to ensure that apps are created and released in a timely and efficient manner.
 

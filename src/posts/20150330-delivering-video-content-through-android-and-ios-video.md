@@ -1,9 +1,11 @@
-title: Delivering video content through Android and iOS [VIDEO]
+---
+title: Delivering Video Content Through Android and iOS
+description: Video can be a fantastic resource to make your applications more engaging and dynamic. So, what's the best way to deliver video for Android and iOS?
+archive_title: Delivering video content through Android and iOS [VIDEO]
+---
 
-+++
+# Delivering Video Content Through Android and iOS
 
-
-# Delivering video content through Android and iOS [VIDEO]
 
 transcript
 

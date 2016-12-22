@@ -1,9 +1,10 @@
-title: Carving out a competitive advantage with mobile payments
+---
+title: Competitive Advantage With Mobile Payments
+description: Is your business taking advantage of the benefits available by using mobile payments? If not, there's no better time than the present. 
+archive_title: Carving out a competitive advantage with mobile payments
+---
 
-+++
-
-
-# Carving out a competitive advantage with mobile payments
+# Competitive Advantage With Mobile Payments
 
 Is your business taking advantage of mobile payments? If not, there's no better time than the present. Smartphones have become thoroughly embedded in the day-to-day lives of their owners. Consider this: On average, owners first check their smartphones at 7:31 AM, and they spend an average of 3 hours 16 minutes using their phones every day.
 

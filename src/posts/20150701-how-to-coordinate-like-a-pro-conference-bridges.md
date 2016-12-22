@@ -1,9 +1,10 @@
-title: How to coordinate like a pro - Conference bridges
+---
+title: How to Coordinate Like a Pro&#58; Conference Bridges
+description: You should be using a conference call bridge for just about every scheduled call, even if the call is just for two people to connect.
+archive_title: How to coordinate like a pro - Conference bridges
+---
 
-+++
-
-
-# How to coordinate like a pro: Conference bridges
+# How to Coordinate Like a Pro: Conference Bridges
 
 Some business calls are ad-hoc, and unscheduled. Quickly calling someone's cell to ask a timely question, for example. Many calls are scheduled, though. You should be using a conference call bridge for just about EVERY scheduled call, even if the call is just for two people to connect. Why? Compare the two approaches:
 

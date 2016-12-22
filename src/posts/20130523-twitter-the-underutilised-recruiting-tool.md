@@ -1,10 +1,11 @@
-title: Twitter - The Underutilised Recruiting Tool
+---
+title: Twitter&#58; The Underutilized Recruiting Tool
+description: With 554,750,000 active users on Twitter, you can imagine this means that there is huge pool of candidates that recruiters are ignoring.
+archive_title: Twitter - The Underutilised Recruiting Tool
 link: http://blogs.syrinx.com/uncategorized/twitter-the-underutilised-recruiting-tool/
+---
 
-+++
-
-
-# Twitter: The Underutilised Recruiting Tool
+# Twitter: The Underutilized Recruiting Tool
 
 Twitter is the 14th most visited website in the world with five hundred fifty four million seven hundred and fifty thousand(554,750,000) active users, this as you can imagine means that there is huge pool of candidates that recruiters are ignoring. However like most things starting to use Twitter as a recruiting tool isn't going to lead to instant success. Patience is a virtue, and building a valuable Twitter network may take some time. The aim would be to create a vibrant community that is based around your companies Twitter page. Once you manage to do this you will have the ability to reach people who are interested in your company instantly, with your tweet appearing on their smartphones as well as desktops. You also gain access to passive candidates who may not be actively looking for a job. Your tweet may however peak their interests and could even entice them to remove themselves from their comfort zone of the familiar.                                 
 ![The Geographical Distribution of Twitter Users](/assets/img/blog/heatmap.png)

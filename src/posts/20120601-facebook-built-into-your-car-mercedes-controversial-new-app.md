@@ -1,10 +1,11 @@
-title: "Facebook built into your CAR"
+---
+title: Facebook Built into Your CAR&#58; Mercedes' New App
+description: In the newer models of the Mercedes Benz cars, a system known as 'Mbrace2' will allow drivers to access Facebook and other web applications.
+archive_title: Facebook built into your CAR
 link: http://blogs.syrinx.com/uncategorized/facebook-built-into-your-car-mercedes-controversial-new-app/
+---
 
-+++
-
-
-# Facebook built into your CAR: Mercedes' Controversial New App
+# Facebook Built into Your CAR: Mercedes' New App
 
 Mike VanNieuwkuyk, the executive director for Global Auto at J.D. Power Associates feels as though the comfortability of a car far outweighs the dangers it can do to other drivers on the road. In the newer models of the Mercedes Benz cars, a system known as ['Mbrace2'](http://www.technewsworld.com/story/74156.html) will allow drivers to access Facebook and other web applications on the dashboard of their car.
 

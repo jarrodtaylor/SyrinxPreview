@@ -1,9 +1,10 @@
-title: How to develop effective mobile push notifications
+---
+title: How to Develop Effective Mobile Push Notifications
+description: An app should encourages engagement among users. For the developers, this involves constructing an app that sends users relevant push notifications.
+archive_title: How to develop effective mobile push notifications
+---
 
-+++
-
-
-# How to develop effective mobile push notifications
+# How to Develop Effective Mobile Push Notifications
 
 Delivering advertisements through mobile apps is a great way to generate revenue, but whether or not companies purchase ad space from you depends on how often people use your app. It doesn't make sense for a business to pay for 100,000 impressions if no one is going to see them. 
 

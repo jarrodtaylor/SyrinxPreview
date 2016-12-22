@@ -1,7 +1,9 @@
-title: When It's Time To Create A Mobile App
+---
+title: When It's Time To Create A Mobile App by Syrinx
+description: It's time to create an amazing mobile app if your organization hasn't. This is the way to engage your existing customers and attract new ones.
+archive_title: When It's Time To Create A Mobile App
 link: http://blogs.syrinx.com/mobile-development/when-its-time-to-create-a-mobile-app/
-
-+++
+---
 
 # When It's Time To Create A Mobile App
 

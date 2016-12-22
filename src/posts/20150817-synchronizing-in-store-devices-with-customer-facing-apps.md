@@ -1,9 +1,10 @@
-title: Synchronizing in-store devices with customer-facing apps
+---
+title: In-Store Devices With Customer-Facing Apps
+description: With expert-level guidance, synchronization can become a key selling point, rather than an obstacle, for your business.
+archive_title: Synchronizing in-store devices with customer-facing apps
+---
 
-+++
-
-
-# Synchronizing in-store devices with customer-facing apps
+# In-Store Devices With Customer-Facing Apps
 
 In the past, shopping was a pretty straightforward experience. You'd go into the store, browse the products, maybe speak to a salesperson, then make your purchase. That was it. Now, thanks to the rise of smartphones, apps and other mobile tech, the process has become both simpler and more complex. 
 

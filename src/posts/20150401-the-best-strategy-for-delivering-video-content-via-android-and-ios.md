@@ -1,9 +1,11 @@
-title: The best strategy for delivering video content via Android and iOS
+---
+title: Best Way to Deliver Video Via Android and iOS
+description: How to best deliver video content through either Android or iOS apps? There are a number of options and best practices for apps on both platforms.
+archive_title: The best strategy for delivering video content via Android and iOS
+---
 
-+++
+# Best Way to Deliver Video Via Android and iOS
 
-
-# The best strategy for delivering video content via Android and iOS
 
 It's not surprising that video content is incredibly popular. What may be surprising, though, is just how popular video has become. According to a recent study from Cisco Systems,  video traffic accounted for more than three-fourths of all Internet bandwidth consumed in the U.S. in 2014. By 2018, this number will likely reach 84 percent. 
 

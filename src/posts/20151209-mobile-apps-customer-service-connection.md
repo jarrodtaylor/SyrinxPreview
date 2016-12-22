@@ -1,9 +1,10 @@
-title: Mobile apps' customer service connection
+---
+title: Mobile Apps' Customer Service Connection
+description: By collecting mobile app data and identifying trends in user behaviors, brands can cut down on customer service requirements.
+archive_title: Mobile apps' customer service connection
+---
 
-+++
-
-
-# Mobile apps' customer service connection
+# Mobile Apps' Customer Service Connection
 
 Over the past decade, consumers slowly but surely started to demand mobile apps from all of their favorite brands and businesses. Now, the mobile app market is full of different apps for a variety of needs, use case scenarios and entertainment reasons. However, as the mobile app sector increases in maturity, some organizations are losing sight of the end user in an attempt to bring something groundbreaking to the table. While this isn't necessarily a bad approach, enterprises must please their customers with their mobile apps.
 

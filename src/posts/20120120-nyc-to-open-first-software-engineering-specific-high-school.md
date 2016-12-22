@@ -1,9 +1,11 @@
-title: NYC to open first software engineering specific high school
+---
+title: NYC to Open First Software Engineering High School
+description: New York City opened its first software engineering-centric public school in 2012. The school is aptly named the Academy for Software Engineering.
+archive_title: NYC to open first software engineering specific high school
 link: http://blogs.syrinx.com/enterprise-application-development/nyc-to-open-first-software-engineering-specific-high-school/
+---
 
-+++
-
-# NYC to open first software engineering specific high school
+# NYC to Open First Software Engineering High School
 
 It's no secret that the fierce demand for software engineers and programmers, whose overall employment is expected to increase by 21% between 2008 and 2018, has made computer science degrees highly coveted by college students and employers alike. Last year, Stanford saw a [40% increase in students declaring a computer science major](http://www.cio.com/article/551115/Want_a_Job_Get_a_Computer_Science_Degree), while Georgia Tech reported placing 87% of their CS undergrads in jobs.
 

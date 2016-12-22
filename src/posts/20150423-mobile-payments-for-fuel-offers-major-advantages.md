@@ -1,9 +1,10 @@
-title: Mobile payments for fuel offers major advantages
+---
+title: Mobile Payments for Fuel Offers Major Advantages
+description: Integrating mobile payments with fuel pumps' point-of-sale systems offers advantages, especially for companies that act sooner rather than later.
+archive_title: Mobile payments for fuel offers major advantages
+---
 
-+++
-
-
-# Mobile payments for fuel offers major advantages
+# Mobile Payments for Fuel Offers Major Advantages
 
 Competition is and always has been fierce among filling stations. There are millions upon millions of vehicle owners and operators, and they all need fuel. Those filling stations that can attract and retain regular customers will thrive, regardless of changing fuel costs. 
 

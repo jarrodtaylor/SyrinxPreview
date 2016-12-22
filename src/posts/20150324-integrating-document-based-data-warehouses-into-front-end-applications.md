@@ -1,9 +1,10 @@
-title: Integrating document-based data warehouses into front-end applications
+---
+title: Integrating Data Warehouses into Front-End Apps
+description: Among the most important developments in the field has been the rise of document-based data warehouses. With these developments, come pros and cons.
+archive_title: Integrating document-based data warehouses into front-end applications
+---
 
-+++
-
-
-# Integrating document-based data warehouses into front-end applications
+# Integrating Data Warehouses into Front-End Apps
 
 Data warehouses represent an essential part of virtually every organization's analytics efforts. These resources have evolved significantly over the past few years, improving in terms of usability, capacity and more. Among the most important developments in the field has been the rise of document-based data warehouses. These data warehouses offer major advantages - most notably, the potential to produce more robust, informative analytics insight. 
 

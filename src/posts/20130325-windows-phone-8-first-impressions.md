@@ -1,8 +1,9 @@
-title: Windows Phone 8 - First impressions
+---
+title: Windows Phone 8&#58; First impressions by Syrinx
+description: A few months ago I wouldn't have considered a platform switch. I had grown fond of Android but I took the plunge and dove into the Windows 8 phone.
+archive_title: Windows Phone 8 - First impressions
 link: http://blogs.syrinx.com/uncategorized/windows-phone-8-first-impressions/
-
-+++
-
+---
 
 # Windows Phone 8: First impressions
 

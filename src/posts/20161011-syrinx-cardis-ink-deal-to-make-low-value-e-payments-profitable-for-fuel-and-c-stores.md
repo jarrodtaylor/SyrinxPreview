@@ -1,6 +1,7 @@
+---
 title: Syrinx, Cardis Ink Deal To Make Low-Value e-Payments Profitable for Fuel and C-stores
-
-+++
+archive_title: Syrinx, Cardis Ink Deal To Make Low-Value e-Payments Profitable for Fuel and C-stores
+---
 
 # Syrinx, Cardis Ink Deal To Make Low-Value e-Payments Profitable for Fuel and C-stores
 

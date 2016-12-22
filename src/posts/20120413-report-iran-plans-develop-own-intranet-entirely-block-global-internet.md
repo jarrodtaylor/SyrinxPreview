@@ -1,10 +1,11 @@
-title: Iran plans develop own intranet, entirely block global internet
+---
+title: Iran to Develop Intranet, Blocks Global Internet
+description: Iran has become increasingly restricted ever since President Mahmoud Ahmadinejad's administration took office in 2005.
+archive_title: Iran plans develop own intranet, entirely block global internet
 link: http://blogs.syrinx.com/big-data/report-iran-plans-develop-own-intranet-entirely-block-global-internet/
+---
 
-+++
-
-
-# Report: Iran plans develop own intranet, entirely block global internet
+# Iran to Develop Intranet, Blocks Global Internet
 
 The Iranian government's intolerance and strong censorship of the internet has been well documented. Though originally being comparatively open in their internet laws, the country has become increasingly restricted ever since President Mahmoud Ahmadinejad's administration took office in 2005, despite having the 2nd largest internet presence in the Middle East at just over 20 million user, behind only Israel. The government's regulation of the internet only increased after many Iranians [used social media as their biggest tool in protesting the allegedly fixed 2009 elections](http://www.cbsnews.com/2100-205_162-5090788.html).
 

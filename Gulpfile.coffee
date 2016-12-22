@@ -161,8 +161,6 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
       do (file) ->
         contents = fs.readFileSync("#{options.src}/posts/#{file}", 'utf8')
         data = fm String(contents)
-        if data.body && data.body.length > 0
-          data.body = data.body.split('+++')[1]
         index += markdown.toHTML data.body
         index += '<hr />'
     fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")

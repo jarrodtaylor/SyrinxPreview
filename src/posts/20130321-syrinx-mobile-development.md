@@ -1,10 +1,12 @@
+---
 title: Syrinx Mobile Development
+description: With Syrinx, clients are building apps in iOS, Android, and Blackberry platforms to increase revenue, drive efficiency, engage, and make life easier.
+archive_title: Syrinx Mobile Development
 link: http://blogs.syrinx.com/uncategorized/syrinx-mobile-development/
-
-+++
-
+---
 
 # Syrinx Mobile Development
+
 
 For the past several years, Syrinx has been doing development projects involving mobile technologies. With our help our clients are building apps in iOS, Android, and Blackberry platforms to increase revenue, drive efficiency, better engage clients and vendors, and make life easier for employees and customers. Most times these applications work with back end systems to surface data or provide interaction with traditional desktop and server systems, using technologies like Java, .NET,  Ruby, Python, and PHP. Many of the mobile applications need to work in a potentially disconnected environment, allowing checkout of data or "store and forward" of updates. In all cases, the application must look great, engage users, perform under load, and be delivered on time and on budget. Our mobile practice is now one of the fastest growing areas of the company. Some highlights from projects our developers have been working on:
 

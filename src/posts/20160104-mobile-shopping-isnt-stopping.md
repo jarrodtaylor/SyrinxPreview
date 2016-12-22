@@ -1,10 +1,11 @@
-title: Mobile shopping isn't stopping
+---
+title: Mobile Shopping Isn't Stopping by Syrinx
+description: Into 2016, there is no reason to suspect that consumers will abandon their new, more efficient methods for finding deals and completing purchases.
+archive_title: Mobile shopping isn't stopping
 link: http://blogs.syrinx.com/payments/mobile-shopping-isnt-stopping/
+---
 
-+++
-
-
-# Mobile shopping isn't stopping
+# Mobile Shopping Isn't Stopping
 
 'Tis the season for mobile shopping. According to TechCrunch, which cited data from Adobe, consumers used their mobile devices [to spend $1.5 billion in only two days](http://techcrunch.com/2015/11/28/thanksgiving-online-sales/#.ksj0q7:CcOb) at the beginning of the holiday buying spree. Additionally, 54 percent of all Black Friday traffic came from smartphones and tablets, and individuals completed over a third of their transactions on those same devices. As the new year approaches, mobile shopping will continue to dominate the retail industry.
 

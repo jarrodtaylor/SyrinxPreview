@@ -1,8 +1,10 @@
-title: What do manufacturers need from an ERP solution?
+---
+title: What Do Manufacturers Need From an ERP Solution?
+description: Assuming you're the CIO of a production company, you need to select an ERP solution customizable to support end-user responsibilities.
+archive_title: What do manufacturers need from an ERP solution?
+---
 
-+++
-
-# What do manufacturers need from an ERP solution?
+# What Do Manufacturers Need From an ERP Solution?
 
 After struggling with an outdated enterprise resource planning solution for more than a year, you've come to the conclusion that it's simply not worth the wasted effort anymore. So, you tell your internal development team that it's time for an upgrade.
 

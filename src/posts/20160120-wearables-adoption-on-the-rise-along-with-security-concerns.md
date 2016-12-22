@@ -1,9 +1,11 @@
-title: Wearables adoption on the rise along with security concerns
+---
+title: Wearable's Adoption Rises, Security Concerns Grow
+description: Wearables are slowly becoming everyday technologies for many American shoppers and workers, but what security concerns come with this growth?
+archive_title: Wearables adoption on the rise along with security concerns
 link: http://blogs.syrinx.com/mobile-development/wearables-adoption-on-the-rise-along-with-security-concerns/
+---
 
-+++
-
-# Wearables adoption on the rise along with security concerns
+# Wearables Adoption Rises, Security Concerns Grow
 
 Wearable technology shows tons of promise: Consumers can use smartwatches for completing retail transactions with mobile payment apps; banks can provide wearable apps for account management; and security purposes and corporations can arm their employees with quick and easy access to enterprise applications thanks to a variety of different devices. Many individuals realize this potential, and as such, wearables are slowly but surely becoming everyday technologies for many American shoppers and workers.
 

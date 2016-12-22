@@ -1,10 +1,11 @@
-title: 5 Things You MUST Consider To Avoid Mobile Project Failure
+---
+title: 5 Considerations to Avoid Mobile Project Failure
+description: Many mobile development projects fail to be completed, or don't satisfy user needs when they are done. How can you avoid these costly mistakes?
+archive_title: 5 Things You MUST Consider To Avoid Mobile Project Failure
 link: http://blogs.syrinx.com/uncategorized/5-things-you-must-consider-to-avoid-mobile-project-failure/
+---
 
-+++
-
-
-# 5 Things You MUST Consider To Avoid Mobile Project Failure
+# 5 Considerations to Avoid Mobile Project Failure
 
 Many mobile development projects fail to be completed, or don't satisfy the needs of users when they are done. How can you avoid these costly mistakes? Start by answering these 5 questions:
 

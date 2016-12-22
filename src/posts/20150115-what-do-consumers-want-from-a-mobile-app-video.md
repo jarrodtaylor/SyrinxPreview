@@ -1,8 +1,10 @@
-title: What do consumers want from a mobile app? [VIDEO]
+---
+title: What Do Consumers Want From a Mobile App?
+description: Given the craze surrounding mobile apps nowadays, it's easy to confuse what consumers actually want from them but Syrinx gives you ideas to consider.
+archive_title: What do consumers want from a mobile app? [VIDEO]
+---
 
-+++
-
-# What do consumers want from a mobile app? [VIDEO]
+# What Do Consumers Want From a Mobile App?
 
 Hey, thanks for visiting Syrinx! Given the craze surrounding mobile apps nowadays, it's easy to confuse what consumers actually want from them.
 

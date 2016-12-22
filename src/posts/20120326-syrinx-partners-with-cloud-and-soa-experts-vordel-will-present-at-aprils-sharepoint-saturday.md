@@ -1,9 +1,11 @@
-title: Syrinx partners with cloud and SOA experts Vordel, will present at April's Sharepoint Saturday
+---
+title: Syrinx Partners With Cloud and SOA Experts Vordel
+description: With Vordel launching their Sharepoint Gateway services, we offer our extensive Sharepoint experience to ensure customers an optimal experience.
+archive_title: Syrinx partners with cloud and SOA experts Vordel, will present at April's Sharepoint Saturday
 link: http://blogs.syrinx.com/news/syrinx-partners-with-cloud-and-soa-experts-vordel-will-present-at-aprils-sharepoint-saturday/
+---
 
-+++
-
-# Syrinx partners with cloud and SOA experts Vordel, will present at April's Sharepoint Saturday
+# Syrinx Partners With Cloud and SOA Experts Vordel
 
 Syrinx Consulting is proud to announce [our latest partnership with with Vordel](http://online.wsj.com/article/PR-CO-20120320-906239.html), a company that specializes in using new technology such as mobile computing, social networking, and Cloud computing to help companies build revenue, improve customer intimacy, and lower their costs. With Vordel recently launching their  [Sharepoint Gateway](http://www.vordel.com/solutions/sharepoint_gateway.html) services, we are happy to offer our extensive Sharepoint experience in order to ensure customers an optimal experience.
 

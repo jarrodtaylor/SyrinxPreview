@@ -1,9 +1,10 @@
-title: ICANN verification emails? Act now
+---
+title: ICANN Verification Emails? Act Now
+description: ICANN is responsible for IP address and domain provisioning. They work with registrars and resellers of the U.S. like Domain.com, GoDaddy and so on.
+archive_title: ICANN verification emails? Act now
+---
 
-+++
-
-
-# ICANN verification emails? Act now
+# ICANN Verification Emails? Act Now
 
 What is an ICANN verification email? Can I ignore it?  
 

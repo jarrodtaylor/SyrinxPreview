@@ -1,10 +1,11 @@
-title: Real World APIs
+---
+title: Real World APIs by Syrinx Software Development
+description: In a series of upcoming articles, we will explore APIs in the wild. We’ll take a look at how enterprises can conquer the challenges facing APIs.
+archive_title: Real World APIs
 link: http://blogs.syrinx.com/uncategorized/real-world-apis/
+---
 
-+++
-
-
-# Real World APIs
+# Real World APIs 
 
 We use APIs in some form or another without realizing it. The “Application” part of API doesn’t have to mean “computer only.” Imagine ordering at your local drive-through window. The details of how your burger, fries, and drink get into your hands are unimportant and hidden from you by the walls of the building. Think of these as backend operations like a database query. When you approach the window, you see the API promotion as a menu – a list of choices (or operations) that your fast food joint allows. So when you say “Give me a large #1 with mayo and a Coke,” where the #1 is documented as a single patty cheeseburger with a tomato, lettuce, and pickles, you have just used the customer API for ordering. How could this look as a REST call? `http://www.fastfood.com/orderSpecial?number=1&size=large&drink=coke&extras=mayo` where extras is an optional argument; in other words if you don’t want extras, you don’t specify the extras argument. What you get back is a package of stuff as the response to your request. In this real world case the “response” is your burger with mayo, a large order of fries, and a large Coke.
 

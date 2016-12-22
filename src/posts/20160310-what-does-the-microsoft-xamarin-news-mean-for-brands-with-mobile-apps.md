@@ -1,7 +1,8 @@
+---
 title: What Does The Microsoft-Xamarin News Mean For Brands With Mobile Apps?
+archive_title: What Does The Microsoft-Xamarin News Mean For Brands With Mobile Apps?
 link: http://blogs.syrinx.com/mobile-development/what-does-the-microsoft-xamarin-news-mean-for-brands-with-mobile-apps/
-
-+++
+---
 
 # What Does The Microsoft-Xamarin News Mean For Brands With Mobile Apps?
 

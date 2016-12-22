@@ -1,9 +1,10 @@
-title: 5 soft skills of a top-notch software development firm
+---
+title: 5 Soft Skills of a Top Software Development Firm
+description: Not sure where to begin? We've listed five features that differentiate top-of-the-line software development partners from their competitors.
+archive_title: 5 soft skills of a top-notch software development firm
+---
 
-+++
-
-
-# 5 soft skills of a top-notch software development firm
+# 5 Soft Skills of a Top Software Development Firm
 
 So, you want to build an application that accommodates your employees' needs from the ground up.  
 

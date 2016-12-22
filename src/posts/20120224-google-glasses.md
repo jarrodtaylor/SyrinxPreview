@@ -1,9 +1,11 @@
-title: Google set to launch "smart glasses" by end of 2012
+---
+title: Google to Launch "Smart Glasses" by End of 2012
+description: Several outlets report that, by the end of the year, the masterminds behind Google will start selling "smart glasses" featuring a heads up display.
+archive_title: Google set to launch "smart glasses" by end of 2012
 link: http://blogs.syrinx.com/mobile-development/google-glasses/
+---
 
-+++
-
-# Reports: Google set to launch "smart glasses" by end of 2012
+# Google to Launch "Smart Glasses" by End of 2012
 
 Several outlets such as the [New York Times](http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/) and the [LA Times](http://www.latimes.com/business/technology/la-fi-tn-google-x-smart-glasses-heads-up-display-augmented-reality-rumor-20120222,0,653228.story?track=rss) blogs are reporting that, by the end of the year, the masterminds behind Google will start selling "smart glasses" that feature a heads up display. Users who wear the glasses, which are said to be Android based and [expected to resemble Oakley Thumps](http://9to5google.com/2012/02/06/hud-google-glasses-are-real-and-they-are-coming-soon/), will see an augmented reality supported by Google's numerous services to get instant information on restaurants, cars, people, or just about anything else that they can look at.
 

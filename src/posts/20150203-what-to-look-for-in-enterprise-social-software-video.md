@@ -1,8 +1,10 @@
-title: What to look for in enterprise social software [VIDEO]
+---
+title: What to Look for in Enterprise Social Software
+description: Wish your departments communicated more frequently? Enterprise social software may be exactly what you need, but what should you look for?
+archive_title: What to look for in enterprise social software [VIDEO]
+---
 
-+++
-
-# What to look for in enterprise social software [VIDEO]
+# What to Look for in Enterprise Social Software
 
 Transcript
 

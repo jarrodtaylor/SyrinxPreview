@@ -1,8 +1,9 @@
+---
 title: Social Media Vs. Prime Time Olympic Moments
+description: With the Olympics going on today many people are wandering whether or not social media will spoil the big moments.
+archive_title: Social Media Vs. Prime Time Olympic Moments
 link: http://blogs.syrinx.com/uncategorized/social-media-vs-prime-time-olympic-moments/
-
-+++
-
+---
 
 # Social Media Vs. Prime Time Olympic Moments
 

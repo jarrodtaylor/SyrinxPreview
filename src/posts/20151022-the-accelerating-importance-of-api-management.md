@@ -1,9 +1,10 @@
-title: The accelerating importance of API management
+---
+title: The Accelerating Importance of API Management
+description: There is a growing awareness among corporate leaders that API management must be seen not as an IT concern, but rather as a top-level business need.
+archive_title: The accelerating importance of API management
+---
 
-+++
-
-
-# The accelerating importance of API management
+# The Accelerating Importance of API Management
 
 There is a growing awareness among corporate leaders that API management must be seen not as an IT concern, but rather as a top-level business need. In the near future, the importance of API management will only accelerate.
 

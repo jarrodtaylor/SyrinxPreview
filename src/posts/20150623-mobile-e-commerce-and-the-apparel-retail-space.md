@@ -1,9 +1,10 @@
-title: Mobile e-commerce and the apparel retail space
+---
+title: Mobile E-Commerce and the Apparel Retail Space
+description: By embracing the e-commerce boom, businesses have the potential to vastly improve their outreach efforts and customer loyalty levels
+archive_title: Mobile e-commerce and the apparel retail space
+---
 
-+++
-
-
-# Mobile e-commerce and the apparel retail space
+# Mobile E-Commerce and the Apparel Retail Space
 
 The mobile e-commerce boom is easily one of the most exciting IT trends currently occurring in the retail sector. By embracing this development, businesses have the potential to vastly improve their outreach efforts and customer loyalty levels, along with their bottom lines.
 

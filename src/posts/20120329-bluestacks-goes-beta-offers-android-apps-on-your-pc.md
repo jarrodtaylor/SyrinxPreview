@@ -1,9 +1,11 @@
-title: Bluestacks goes beta, offers Android apps on your PC
+---
+title: Bluestack Beta, Offers Android Apps on Your PC
+description: After attracting 1 million users in its 3 month alpha phase, the ambitious startup BlueStacks has released a free public beta version.
+archive_title: Bluestacks goes beta, offers Android apps on your PC
 link: http://blogs.syrinx.com/uncategorized/bluestacks-goes-beta-offers-android-apps-on-your-pc/
+---
 
-+++
-
-# Bluestacks goes beta, offers Android apps on your PC
+# Bluestack Beta, Offers Android Apps on Your PC
 
 After attracting 1 million users from over 100 countries in its 3 month alpha phase, the ambitious startup [BlueStacks](http://bluestacks.com/) has released a free public beta version of their Android emulator.
 

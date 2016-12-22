@@ -1,9 +1,10 @@
-title: Overcoming key hurdles for cloud integration
+---
+title: Overcoming Key Hurdles for Cloud Integration
+description: There was a time when cloud computing was seen as an advanced and rather risky technology. Syrinx offers 5 steps for successful cloud integration.
+archive_title: Overcoming key hurdles for cloud integration
+---
 
-+++
-
-
-# Overcoming key hurdles for cloud integration
+# Overcoming Key Hurdles for Cloud Integration
 
 There was a time when cloud computing was seen as an incredibly advanced and rather risky technology, one which many business decision-makers neither understood nor were ready to embrace. That time has passed. Today, companies in every sector and region are embracing the cloud to a greater and greater degree. In fact, IDC recently predicted that global spending on the public cloud alone will nearly [reach $70 billion this year](https://www.idc.com/getdoc.jsp?containerId=prUS25797415). 
 

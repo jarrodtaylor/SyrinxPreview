@@ -1,9 +1,10 @@
-title: Why build an e-commerce site with HTML5 and Node.js?
+---
+title: Build an E-Commerce Site With HTML5 and Node.js
+description: Node.js and HTML5 complement one another. Node.js provides horsepower to load web pages, and HTML5 gives your front-end functionality.
+archive_title: Why build an e-commerce site with HTML5 and Node.js?
+---
 
-+++
-
-
-# Why build an e-commerce site with HTML5 and Node.js?
+# Build an E-Commerce Site With HTML5 and Node.js
 
 In a previous post, [we discussed](http://blogs.syrinx.com/mobile-development/node-js-and-html5-a-match-made-in-mobile-heaven/) why using HTML5 and Node.js to build a mobile app is a heck of an idea.
 

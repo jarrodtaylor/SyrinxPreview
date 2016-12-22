@@ -1,10 +1,11 @@
-title: Mobile Experience Matters More than You Think
+---
+title: Mobile Experience Matters More Than You Think
+description: The whole world has gone mobile and if you are beginning to lag behind you should prepare yourself to be relegated to the doldrums of search results.
+archive_title: Mobile Experience Matters More than You Think
 link: http://blogs.syrinx.com/uncategorized/mobile-experience-matters-more-than-you-think/
+---
 
-+++
-
-
-# Mobile Experience Matters More than You Think
+# Mobile Experience Matters More Than You Think
 
 I’m sure through the development of your companys website you have asked “How does that look in (insert browser)?” Rightly so, getting a full and comprehensive understanding of how your companys site renders and functions on all browsers is important. However you may have to begin to provide more attention to one over the rest very soon. This is the mobile browser! The whole world has gone mobile and if you are beginning to lag behind you should prepare yourself to be relegated to the doldrums of search results.
 

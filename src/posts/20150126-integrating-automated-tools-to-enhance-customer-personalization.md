@@ -1,6 +1,8 @@
-title: Integrating Automated Tools to Enhance Customer Personalization
-
-+++
+---
+title: Integrating Automated Tools for Personalization
+description: In order to deliver applicable services to consumers instantly, merchants require a fully-integrated automated customer service solution.
+archive_title: Integrating Automated Tools to Enhance Customer Personalization
+---
 
 # Integrating Automated Tools to Enhance Customer Personalization
 

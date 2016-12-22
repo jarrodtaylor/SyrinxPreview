@@ -1,10 +1,11 @@
-title: Congratulations Keith!
+---
+title: Congratulations to Syrinx's Keith Ballinger!
+description: Keith has been working with us the last couple of years, but starting March of this year he has assumed this new role of VP of engineering.
+archive_title: Congratulations Keith!
 link: http://blogs.syrinx.com/uncategorized/congratulations-keith/
+---
 
-+++
-
-
-# Congratulations Keith!
+# Congratulations to Syrinx's Keith Ballinger!
 
 Please help us in welcoming Keith Ballinger to the position of Vice President of Engineering at Syrinx! Keith has been working with us the last couple of years, but starting March of this year he has assumed this new role. In this capacity Keith will oversee our delivery efforts and provide technical leadership for our entire team. For those of you who have not yet met Keith, some details:
 

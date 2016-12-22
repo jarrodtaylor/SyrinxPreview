@@ -1,10 +1,11 @@
-title: History of Javascript
+---
+title: A Brief History of JavaScript
+description: Almost every site you visit uses JavaScript in some way. Without JavaScript, websites would be boring and unable to do everything you know and love.
+archive_title: History of Javascript
 link: http://blogs.syrinx.com/mobile-development/history-of-javascript/
+---
 
-+++
-
-
-# A Brief History of Javascript
+# A Brief History of JavaScript
 
 Almost every site that you visit uses Javascript in some fashion. Without it, websites would be pretty boring and you wouldn’t be able do all the things you know and love. These days, Javascript hasn’t just taken over the web but your mobile devices as well. You probably don’t realize it, but many of the apps on your iPhone, android, and tablets that are written in good ole Javascript.
 

@@ -1,10 +1,11 @@
-title: Android Tablet vs iPad
+---
+title: Android Tablet vs. iPad Comparison by Syrinx
+description: 44 percent of tablet buyers claim they are going to purchase an Android tablet in the next year, opposed to the 27% who claimed to purchase the iPad.
+archive_title: Android Tablet vs iPad
 link: http://blogs.syrinx.com/uncategorized/android-tablet-vs-ipad/
+---
 
-+++
-
-
-# Android Tablet vs iPad
+# Android Tablet vs. iPad Comparison
 
 Android Tablet vs iPad – What are the numbers? Forty-four percent of tablet buyers claimed that they are going to purchase an Android tablet in the next year as opposed to the 27% who have claimed to purchase the infamous iPad. The world of tablets is beginning to expand more and more every year. Just this year, the total number of tablets that were shipped worldwide exceeded 107.4 million, a figure that is expected to rise next year by 36 million (a whopping 142.8 million tablets worldwide by 2013).
 

@@ -1,10 +1,11 @@
-title: This camera prints text descriptions rather than photos
+---
+title: Camera Prints Text Descriptions Rather Than Photos
+description: NYU student and technologist Matt Richardson was able to construct an actual camera that prints text descriptions rather than photos.
+archive_title: This camera prints text descriptions rather than photos
 link: http://blogs.syrinx.com/uncategorized/this-camera-prints-text-descriptions-rather-than-photos/
+---
 
-+++
-
-
-# This camera prints text descriptions rather than photos
+# Camera Prints Text Descriptions Rather Than Photos
 
 There is a humorous parody account on Twitter by the handle [@textinstagram](https://twitter.com/#!/textinstagram) which posts the usual suspects that you'd find on your Instagram feed, but in text form. Some gems among them are "Deadpan stare, no filter", "Airplane wing as viewed from two seats back", and the simple yet effective, "Feet".
 

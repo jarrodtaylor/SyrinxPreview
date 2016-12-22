@@ -1,8 +1,10 @@
-title: 3 key components of an m-commerce app [VIDEO]
+---
+title: 3 Key Components of an M-Commerce Application
+description: If you're a well-established e-commerce operation and want to accommodate the mobile consumer, which features does your app need?
+archive_title: 3 key components of an m-commerce app [VIDEO]
+---
 
-+++
-
-# 3 key components of an m-commerce app [VIDEO]
+# 3 Key Components of an M-Commerce Application
 
 Transcript 
 

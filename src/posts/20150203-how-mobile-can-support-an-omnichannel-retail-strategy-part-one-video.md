@@ -1,8 +1,10 @@
-title: How mobile can support an omnichannel retail strategy - Part One [VIDEO]
+---
+title: How Mobile Supports an Omnichannel Retail Strategy
+description: An omnichannel retail strategy involves delivering updated information to patrons through whichever channel they prefer.
+archive_title: How mobile can support an omnichannel retail strategy - Part One [VIDEO]
+---
 
-+++
-
-# How mobile can support an omnichannel retail strategy - Part One [VIDEO]
+# How Mobile Supports an Omnichannel Retail Strategy
 
 Transcript
 

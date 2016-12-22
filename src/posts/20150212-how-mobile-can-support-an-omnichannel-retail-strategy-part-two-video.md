@@ -1,8 +1,10 @@
-title: How mobile can support an omnichannel retail strategy - Part Two [VIDEO]
+---
+title: Mobile Supporting Omnichannel Retail Pt.2 (Video)
+description: To sustain an omnichannel strategy, you need to account for every sale you make. That means being able to access payment data from every solution.
+archive_title: How mobile can support an omnichannel retail strategy - Part Two [VIDEO]
+---
 
-+++
-
-# How mobile can support an omnichannel retail strategy - Part Two [VIDEO]
+# Mobile Supporting Omnichannel Retail Pt.2 (Video)
 
 Transcript
 
