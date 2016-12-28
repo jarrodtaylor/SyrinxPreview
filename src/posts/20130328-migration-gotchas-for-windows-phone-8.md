@@ -1,8 +1,9 @@
-title: Migration Gotchas for Windows Phone 8
+---
+title: Migration Gotchas for Windows Phone 8 by Syrinx
+description: Syrinx details some of the problems I ran into during migration from Android to WP8, and how you might recognize them/fix them or avoid them.
+archive_title: Migration Gotchas for Windows Phone 8
 link: http://blogs.syrinx.com/uncategorized/migration-gotchas-for-windows-phone-8/
-
-+++
-
+---
 
 # Migration Gotchas for Windows Phone 8
 

@@ -1,9 +1,10 @@
-title: Establishing security with social media APIs
+---
+title: Establishing Security With Social Media APIs
+description: As countless data breaches and cyber security incidents have demonstrated, aiming to secure software and achieving it are two very different things.
+archive_title: Establishing security with social media APIs
+---
 
-+++
-
-
-# Establishing security with social media APIs
+# Establishing Security With Social Media APIs
 
 Security needs to be a priority for any software development effort. As countless data breaches and other cybersecurity incidents have demonstrated, though, aiming to secure software and actually achieving it are two very different things. 
 

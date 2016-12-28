@@ -1,10 +1,11 @@
-title: Startup Kullect innovates microblogging from "media sharing" to "storytelling"
+---
+title: Startup Kullect Innovates Microblogging
+description: Two UCLA grads have attempted to change the state of blogging with their app, Kullect, in an effort to organize the stream that is our lives.
+archive_title: Startup Kullect innovates microblogging from "media sharing" to "storytelling"
 link: http://blogs.syrinx.com/uncategorized/startup-kullect-innovates-microblogging-from-media-sharing-to-storytelling/
+---
 
-+++
-
-
-# Startup Kullect innovates microblogging from "media sharing" to "storytelling"
+# Kullect Innovates Microblogging From "Media Sharing" to "Storytelling"
 
 These days, taking a look at a Facebook news feed, Twitter timeline, or Instagram feed provides a sometimes overwhelming, disjointed, and out of context stream of consciousness from friends and follows. The era of microblogging, a term applied to these social media platforms that encourage sharing sporadic bursts of brief content, has provided a surge in our daily media intake.
 

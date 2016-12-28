@@ -1,7 +1,8 @@
-title: Employer Branding Strategy
-
-+++
-
+---
+title: Employer Branding Strategy by Syrinx
+description: With 36 percent of global employers reporting talent shortages, and talk of a "war for talent," employer branding has become more important than ever
+archive_title: Employer Branding Strategy
+---
 
 # Employer Branding Strategy
 

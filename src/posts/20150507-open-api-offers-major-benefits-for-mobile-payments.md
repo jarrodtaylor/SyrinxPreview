@@ -1,9 +1,10 @@
-title: Open API offers major benefits for mobile payments
+---
+title: Open API Offers Major Benefits for Mobile Payments
+description: As smartphones and tablet use continues to increase, the value of accommodating consumers' preferences and delivering convenience skyrockets.
+archive_title: Open API offers major benefits for mobile payments
+---
 
-+++
-
-
-# Open API offers major benefits for mobile payments
+# Open API Offers Major Benefits for Mobile Payments
 
 The mobile payments space has exploded in recent years, with no end in sight. The potential is obvious: By embracing mobile payments, businesses in a huge range of industries can make it much easier for consumers to spend money on their products and services. As smartphones and tablet use continues to increase, the value of accommodating consumers' preferences and delivering convenience skyrockets. 
 

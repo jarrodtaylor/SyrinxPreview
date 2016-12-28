@@ -1,7 +1,8 @@
+---
 title: Full-Stack Developers Aren't Required To Build Great Mobile Apps
+archive_title: Full-Stack Developers Aren't Required To Build Great Mobile Apps
 link: http://blogs.syrinx.com/mobile-development/full-stack-developers-arent-required-to-build-great-mobile-apps/
-
-+++
+---
 
 # Full-Stack Developers Aren't Required To Build Great Mobile Apps
 

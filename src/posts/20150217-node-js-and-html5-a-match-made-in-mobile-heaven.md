@@ -1,9 +1,10 @@
-title: Node.js and HTML - A match made in mobile Heaven?
+---
+title: Node.js and HTML5&#58; A Match Made in Mobile Heaven?
+description: HTML5 and Node.js makes for a heck of a combination for developers creating mobile apps with the likes of chat, data collection and payment apps.
+archive_title: Node.js and HTML - A match made in mobile Heaven?
+---
 
-+++
-
-
-# Node.js and HTML5: A match made in mobile Heaven?
+# Node.js and HTML5: A Match Made in Mobile Heaven?
 
 If runtime environments and coding languages died and ascended to some strange mobile-based afterlife, Node.js and HTML5 would probably get hitched. 
 

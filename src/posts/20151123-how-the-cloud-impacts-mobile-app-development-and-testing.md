@@ -1,9 +1,10 @@
-title: How the cloud impacts mobile app development and testing
+---
+title: The Cloud's Impact on App Development and Testing
+description: The cloud allows enterprise development and testing teams to improve their mobile apps in alignment with consumer smartphone and tablet models.
+archive_title: How the cloud impacts mobile app development and testing
+---
 
-+++
-
-
-# How the cloud impacts mobile app development and testing
+# The Cloud's Impact on App Development and Testing
 
 In the past year, enterprise mobility has significantly evolved. Most notably, businesses are turning to the cloud more than ever thanks to rapid, cloud-based mobile app development platforms.
 

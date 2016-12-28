@@ -1,9 +1,10 @@
-title: How to communicate like a pro - 5 tips for choosing the best communication method
+---
+title: 5 Tips for Choosing the Best Communication Method
+description: I believe in adhering to a few simple guidelines to ensure your points are heard, actioned and that you are making the right impression.
+archive_title: How to communicate like a pro - 5 tips for choosing the best communication method
+---
 
-+++
-
-
-# How to communicate like a pro: 5 tips for choosing the best communication method
+# 5 Tips for Choosing the Best Communication Method
 
 How and when you choose to use calls/text/emails in your personal life is your own decision and is a matter of personal preference. In the business world however, I believe in adhering to a few simple guidelines to ensure your points are heard, actioned and that you are making the right impression. This is my opinion (not fact) but I have seen enough mistakes repeated to warrant sharing these suggestions here.
 

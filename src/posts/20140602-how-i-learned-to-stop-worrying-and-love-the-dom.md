@@ -1,8 +1,9 @@
+---
 title: How I Learned to Stop Worrying and Love the DOM
+description: It's time to start looking at the major contenders in front end JS ecosystem&#58; Backbone.js, AngularJS, and Ember.js. Which best fits your project?
+archive_title: How I Learned to Stop Worrying and Love the DOM
 link: http://blogs.syrinx.com/uncategorized/how-i-learned-to-stop-worrying-and-love-the-dom/
-
-+++
-
+---
 
 # How I Learned to Stop Worrying and Love the DOM
 

@@ -1,9 +1,10 @@
-title: Project management and data processing in biopharmaceuticals [VIDEO]
+---
+title: Biopharmaceuticals&#58; Management & Data (Video)
+description: Biopharmaceutical firms tackle complex research and development on a daily basis. That makes project management and data processing critical.
+archive_title: Project management and data processing in biopharmaceuticals [VIDEO]
+---
 
-+++
-
-
-# Project management and data processing in biopharmaceuticals [VIDEO]
+# Biopharmaceuticals: Project Management & Data Processing
 
 Transcript 
 

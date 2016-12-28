@@ -1,7 +1,8 @@
+---
 title: 3 Reasons to Get Your Mobile Payments On Track
-
-+++
-
+description: Interest in mobile payments is growing fast, which means that any business eager to take advantage of this technology should act as soon as possible.
+archive_title: 3 Reasons to Get Your Mobile Payments On Track
+---
 
 # 3 Reasons to Get Your Mobile Payments On Track
 

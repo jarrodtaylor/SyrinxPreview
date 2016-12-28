@@ -1,9 +1,10 @@
-title: Mobile Web design - An essential component of your eCommerce strategy
+---
+title: Mobile Web design&#58; A Component of E-Commerce
+description: Mobile Web design plays a huge role in e-commerce. Despite its importance, many companies have not made the effort to optimize mobile web offerings.
+archive_title: Mobile Web design - An essential component of your eCommerce strategy
+---
 
-+++
-
-
-# Mobile Web design: An essential component of your eCommerce strategy
+# Mobile Web design: A Component of E-Commerce
 
 Developing an effective eCommerce strategy isn't just valuable for retailers - it's essential. As consumers turn to their smartphones for everything from product research to price comparisons to actual purchasing, firms can't afford to ignore this trend. Instead, they need to ensure their mobile solutions are as inviting and easy to use as possible. After all, the U.S. Department of Commerce has estimated that eCommerce sales [reached $93 billion in Q4 2014](https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf), up from $82 billion in Q4 2013. Mobile shopping is playing an ever-increasing role in this area's growth.
 

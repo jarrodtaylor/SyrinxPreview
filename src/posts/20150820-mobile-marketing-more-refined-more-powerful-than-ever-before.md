@@ -1,9 +1,10 @@
-title: Mobile marketing - More refined, more powerful than ever before
+---
+title: Mobile Marketing&#58; More Refined & Powerful
+description: The rise of both mobile marketing and mobile payments emphasizes the need for companies to develop customized, extensive mobile tools and strategies.
+archive_title: Mobile marketing - More refined, more powerful than ever before
+---
 
-+++
-
-
-# Mobile marketing: More refined, more powerful than ever before
+# Mobile Marketing: More Refined & Powerful
 
 Mobile marketing is still a pretty new concept. Just a few years ago, companies started to take their initial steps in this direction, with a lot of mixed results to show for their efforts, and a lot of business leaders were skeptical about the very notion. Now, that's no longer the case. Even though it's still fairly young, mobile marketing is already quite mature.
 

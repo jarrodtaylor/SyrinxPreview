@@ -1,9 +1,11 @@
-title: Is there a silver bullet for native cross-platform mobile app creation?
+---
+title: Silver Bullet for Native Cross-Platform Apps?
+description: There are thousands of brands building apps that fight for customers' interest, giving consumers not only a wealth of options but market power.
+archive_title: Is there a silver bullet for native cross-platform mobile app creation?
 link: http://blogs.syrinx.com/mobile-development/is-there-a-silver-bullet-for-native-cross-platform-mobile-app-creation/
+---
 
-+++
-
-# Is there a silver bullet for native cross-platform mobile app creation?
+# Silver Bullet for Native Cross-Platform Apps?
 
 The app market is competitive, to say the least. There are thousands of brands building apps that fight for customers' interest, which gives consumers not only a wealth of options but a wealth of market power. These consumers, by the actions taken via the brands' apps, send important and immediate messages to companies about the relative importance of their app, and ultimately, their brand. This heightened state of competition and consumer power puts a lot of pressure on brands to build the right apps with the right features; and needless to say these apps must absolutely be optimized for mobile and every device on every platform.
 

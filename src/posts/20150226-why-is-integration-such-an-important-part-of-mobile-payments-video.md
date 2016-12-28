@@ -1,8 +1,10 @@
-title: Why is integration such an important part of mobile payments? [VIDEO]
+---
+title: Integration an Important Part of Mobile Payments?
+description: If there's one thing that's needed when developing a mobile payment app, it's integration with your existing solutions. But why?
+archive_title: Why is integration such an important part of mobile payments? [VIDEO]
+---
 
-+++
-
-# Why is integration such an important part of mobile payments? [VIDEO]
+# Why is Integration an Important Part of Mobile Payments?
 
 Transcript
 

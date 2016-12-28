@@ -1,6 +1,6 @@
+---
 title: The Future of Voice Recognition Software | Syrinx Blog
-
-+++
+---
 
 # How Far Can Voice Recognition Software Take Us?
 Talking to a device to accomplish tasks used to be a futuristic dream. For many, it’s now a way of life.

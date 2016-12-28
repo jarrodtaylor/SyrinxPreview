@@ -1,9 +1,10 @@
-title: Information and the power to transform your career
+---
+title: Information and the Power to Transform Your Career
+description: Better career information not only helps you make better decisions, but also helps you prepare for the future you want, instead of the future you get.
+archive_title: Information and the power to transform your career
+---
 
-+++
-
-
-# Information and the power to transform your career
+# Information and the Power to Transform Your Career
 
 As a talented individual and part of the modern day workforce, you deserve to be informed. You deserve to be in the know about the personal and professional success that a career path can offer you. Better career information not only helps you make better decisions, but also helps you prepare for the future you want, instead of the future you get.
 

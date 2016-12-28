@@ -1,9 +1,10 @@
-title: APIs - The gateways to the connected world
+---
+title: APIs&#58; The Gateways to the Connected World
+description: APIs provide the backbone of the connected word, given the fact that they remove the boundaries imposed by different social media networks.
+archive_title: APIs - The gateways to the connected world
+---
 
-+++
-
-
-# APIs: The gateways to the connected world
+# APIs: The Gateways to the Connected World
 
 Ever wonder how you can share music with your friends on Facebook through Spotify? Or how your Salesforce deployment can collect data from your enterprise resource planning application and compare it to historical customer purchases?
 

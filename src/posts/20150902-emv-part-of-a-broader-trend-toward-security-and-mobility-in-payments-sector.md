@@ -1,9 +1,10 @@
-title: EMV part of a broader trend toward security and mobility in payments sector
+---
+title: EMV&#58; Broader Trend Toward Security and Mobility
+description: By making EMV adoption part of a push toward more reliable, advanced payment options, businesses are positioned not just now, but for years to come.
+archive_title: EMV part of a broader trend toward security and mobility in payments sector
+---
 
-+++
-
-
-# EMV part of a broader trend toward security and mobility in payments sector
+# EMV: Broader Trend Toward Security and Mobility
 
 EMV technology is fast becoming the standard, and organizations in every industry need to take note - and action.
 

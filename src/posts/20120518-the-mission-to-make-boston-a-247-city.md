@@ -1,10 +1,11 @@
-title: The mission to make Boston a 24/7 city
+---
+title: The Mission to Make Boston a 24/7 City by Syrinx
+description: There is no shortage of companies looking for talent, but Boston's ability to attract and retain that talent has been a topic of much discussion.
+archive_title: The mission to make Boston a 24/7 city
 link: http://blogs.syrinx.com/uncategorized/the-mission-to-make-boston-a-247-city/
+---
 
-+++
-
-
-# The mission to make Boston a 24/7 city
+# The Mission to Make Boston a 24/7 City by Syrinx
 
 It is no secret that Boston is among the premiere technology, education, and healthcare hubs in the country. There is no shortage of A-list companies looking for equally qualified talent, but its waning ability to attract and retain that talent [has been the topic of much discussion](http://www.bizjournals.com/boston/news/2011/05/24/report-mass-seeing-severe-it-talent.html).
 

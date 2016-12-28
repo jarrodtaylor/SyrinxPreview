@@ -1,9 +1,10 @@
-title: ECommerce for retailers - A new white paper from Syrinx
+---
+title: E-Commerce for Retailers&#58; White Paper From Syrinx
+description: The latest white paper from Syrinx is now available, and it tackles one of the hottest topics in the retail space&#58; ecommerce.
+archive_title: ECommerce for retailers - A new white paper from Syrinx
+---
 
-+++
-
-
-# ECommerce for retailers: A new white paper from Syrinx
+# E-Commerce for Retailers: White Paper From Syrinx
 
 The latest white paper from Syrinx is now available, and it tackles one of the hottest topics in the retail space: eCommerce.
 

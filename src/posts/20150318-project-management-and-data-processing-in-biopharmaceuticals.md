@@ -1,9 +1,10 @@
-title: Project management and data processing in biopharmaceuticals
+---
+title: Biopharmaceuticals&#58; Management & Data Processing
+description: Biopharmaceutical companies develop data processing and project management resources specifically tailored to address this unique sector.
+archive_title: Project management and data processing in biopharmaceuticals
+---
 
-+++
-
-
-# Project management and data processing in biopharmaceuticals
+# Biopharmaceuticals: Management & Data Processing
 
 Biopharmaceuticals is, obviously, a very tech-heavy sector. Researchers and scientists in this field work with some of the most complex, sophisticated tools in the world, and they produce a tremendous amount of information from their efforts. 
 

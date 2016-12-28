@@ -1,7 +1,9 @@
-title: Interview Questions - Know What You're Being Asked!
+---
+title: Interview Questions&#58; Know What You're Being Asked!
+description: In this post Syrinx talks about 5 different types of interview questions, how to recognize them and the best way to answer them.
+archive_title: Interview Questions - Know What You're Being Asked!
 link: http://blogs.syrinx.com/uncategorized/interview-questions-know-what-youre-being-asked/
-
-+++
+---
 
 # Interview Questions: Know What You're Being Asked!
 

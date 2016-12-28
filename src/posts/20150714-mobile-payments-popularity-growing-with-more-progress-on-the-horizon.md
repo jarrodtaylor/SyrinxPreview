@@ -1,9 +1,10 @@
-title: Mobile payments' popularity growing, with more progress on the horizon
+---
+title: Mobile Payments' Popularity, Progress on the Way
+description: There is plenty of evidence that mobile payment solutions can and should go even further than they have thus far, especially for businesses.
+archive_title: Mobile payments' popularity growing, with more progress on the horizon
+---
 
-+++
-
-
-# Mobile payments' popularity growing, with more progress on the horizon
+# Mobile Payments' Popularity, Progress on the Way
 
 Mobile payments are becoming increasingly widespread and popular across just about every industry. At the same time, though, there is plenty of evidence that mobile payment solutions can and should go even further than they have thus far. Put simply, the majority of businesses have not yet taken full advantage of the technology. 
 

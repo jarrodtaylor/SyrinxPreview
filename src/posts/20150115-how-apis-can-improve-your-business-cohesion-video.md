@@ -1,8 +1,11 @@
-title: How APIs can improve your business' cohesion [VIDEO]
+---
+title: How APIs Can Improve Your Business' Cohesion
+description: An API can establish a link between the operation department's resource management program and the sales team's CRM solution.
+archive_title: How APIs can improve your business' cohesion [VIDEO]
+---
 
-+++
+# How APIs Can Improve Your Business' Cohesion
 
-# How APIs can improve your business' cohesion [VIDEO]
 
 Transcript 
 

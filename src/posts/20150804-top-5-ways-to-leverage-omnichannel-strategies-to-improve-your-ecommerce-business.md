@@ -1,9 +1,10 @@
-title: Top 5 ways to leverage omnichannel strategies to improve your eCommerce business
+---
+title: 5 Ways Omnichannel Strategies Improve E-Commerce
+description: The promise of omnichannel e-commerce is that consumers can engage with a company's digital offerings through whichever device and platform desired.
+archive_title: Top 5 ways to leverage omnichannel strategies to improve your eCommerce business
+---
 
-+++
-
-
-# Top 5 ways to leverage omnichannel strategies to improve your eCommerce business
+# 5 Ways Omnichannel Strategies Improve E-Commerce
 
 The promise of omnichannel eCommerce is that consumers can engage with or shop through a company's digital offerings through whichever device and platform they desire.
 

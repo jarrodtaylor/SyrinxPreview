@@ -1,9 +1,10 @@
-title: What does an open source .NET framework mean for you?
+---
+title: What an Open Source .NET Framework Means For You?
+description: Beyond the obvious flexibility benefits, the open source .NET Core framework offers the advantage of supporting "app local" deployments.
+archive_title: What does an open source .NET framework mean for you?
+---
 
-+++
-
-
-# What does an open source .NET framework mean for you?
+# What an Open Source .NET Framework Means For You?
 
 In November, Microsoft announced that its new .NET Core offering would be open source - including its framework libraries. Obviously, this is a big deal for just about every programmer, especially those who have either utilized the .NET framework in the past or, even better, those who've always been interested in taking this step but have thus far shied away. 
 

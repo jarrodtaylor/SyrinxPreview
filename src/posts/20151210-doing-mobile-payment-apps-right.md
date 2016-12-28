@@ -1,9 +1,10 @@
-title: Doing mobile payment apps right
+---
+title: Doing Mobile Payment Apps Right by Syrinx
+description: Consumers don't have room on their devices or time to manage a handful of different apps. Syrinx offers tips for creating the best mobile payment app.
+archive_title: Doing mobile payment apps right
+---
 
-+++
-
-
-# Doing mobile payment apps right
+# Doing Mobile Payment Apps Right
 
 Given the amount of transactions occurring this holiday season, it shouldn't come as a surprise that mobile payments apps remain a popular topic among brands, banks and retailers. Still, these conversations will continue far into 2016, as businesses try to attract new customers and retain old ones by creating easier ways to buy products and services, as well as manage financials and redeem rewards.
 

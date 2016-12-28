@@ -1,8 +1,9 @@
-title: How To Build Mobile Applications for the Real World
+---
+title: Build Mobile Applications for the Real World
+description: Execution and adoption of mobile apps includes loyalty and incentive features, the right technology, and a streamlined user experience and security.
+archive_title: How To Build Mobile Applications for the Real World
 link: http://blogs.syrinx.com/uncategorized/how-to-build-mobile-applications-for-the-real-world/
-
-+++
-
+---
 
 # How To Build Mobile Applications for the Real World
 

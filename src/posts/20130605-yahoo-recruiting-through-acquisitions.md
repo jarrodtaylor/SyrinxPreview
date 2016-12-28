@@ -1,9 +1,11 @@
-title: Yahoo - Recruiting Through Acquisitions
+---
+title: Yahoo&#58; Recruiting Through Acquisitions
+description: Yahoo is rebranding itself. They are no longer a dinosaur from the portal age of the internet but are now a company who you can sell your start-up to
+archive_title: Yahoo - Recruiting Through Acquisitions
 link: http://blogs.syrinx.com/uncategorized/yahoo-recruiting-through-acquisitions/
+---
 
-+++
-
-# Yahoo - Recruiting Through Acquisitions
+# Yahoo: Recruiting Through Acquisitions
 
 It's been nearly impossible to avoid the names Yahoo, Marissa Mayer and Tumblr as of late. The $1.1 Billion purchase of Tumblr by Yahoo CEO Marissa Mayer is still big news even two weeks after the purchase, and new articles are still popping up analysing different aspects of the move and what it means for the technological hierarchy that has been established over the last few years. However the one facet of this topic which I haven't seen much written about is the form of recruiting that Yahoo seems to be utilising.
 

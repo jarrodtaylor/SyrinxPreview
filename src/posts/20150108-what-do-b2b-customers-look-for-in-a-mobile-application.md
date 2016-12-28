@@ -1,9 +1,10 @@
-title: What do B2B customers look for in a mobile application?
+---
+title: What Do B2B Customers Look for in a Mobile App?
+description: In deciding whether launching a mobile app is viable, you need a picture of how business professionals use mobile technology on a day-to-day basis.
+archive_title: What do B2B customers look for in a mobile application?
+---
 
-+++
-
-
-# What do B2B customers look for in a mobile application?
+# What Do B2B Customers Look for in a Mobile App?
 
 If you own or work at a B2B company, there's a chance you've considered how you can deliver mobile services to your customers.
 

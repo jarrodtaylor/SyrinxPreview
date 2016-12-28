@@ -1,9 +1,10 @@
-title: 7 best-performing features of mobile e-Commerce for retailers
+---
+title: 7 Best Features of Mobile E-Commerce for Retailers
+description: Consumers continue to turn to their smartphones with increasing frequency, this balance is likely to shift more toward e-commerce in the coming years.
+archive_title: 7 best-performing features of mobile e-Commerce for retailers
+---
 
-+++
-
-
-# 7 best-performing features of mobile e-Commerce for retailers
+# 7 Best Features of Mobile E-Commerce for Retailers
 
 Mobile e-Commerce has arrived in force, and it's here to stay. In fact, the platform recently crossed a huge milestone. Analyzing more than 100,000 e-Commerce stores' traffic, Shopify found that, for the first time, [mobile shopping outpaced desktop-based e-Commerce](http://www.shopify.com/blog/15206517-mobile-now-accounts-for-50-3-of-all-ecommerce-traffic). And as consumers continue to turn to their smartphones with ever-increasing frequency, this balance is likely to shift even more toward mobile e-Commerce in the coming years.
 

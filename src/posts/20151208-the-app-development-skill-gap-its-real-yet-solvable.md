@@ -1,9 +1,10 @@
-title: The app development skill gap - It's real, yet solvable
+---
+title: The App Development Skill Gap&#58; Real, Yet Solvable
+description: Between mobile and the need for software, businesses have bitten off more than they can chew when it comes to application development.
+archive_title: The app development skill gap - It's real, yet solvable
+---
 
-+++
-
-
-# The app development skill gap: It's real, yet solvable
+# The App Development Skill Gap: Real, Yet Solvable
 
 When Steve Jobs said, "There's an app for that," he was introducing a new culture of applications into the business world. Nowadays, enterprises really do have an app for everything, and if they don't they are working on new tools and solutions for both employees and customers. Between mobile and the need for software, businesses have bitten off more than they can chew when it comes to application development.
 

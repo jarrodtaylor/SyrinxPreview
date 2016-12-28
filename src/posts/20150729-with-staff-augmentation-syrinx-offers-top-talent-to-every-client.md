@@ -1,9 +1,10 @@
-title: With staff augmentation, Syrinx offers top talent to every client
+---
+title: With Staff Augmentation, Syrinx Offers Top Talent
+description: Syrinx's staff augmentation offering, termed Technology Services, is the choice for organizations looking for top software engineering talent.
+archive_title: With staff augmentation, Syrinx offers top talent to every client
+---
 
-+++
-
-
-# With staff augmentation, Syrinx offers top talent to every client
+# With Staff Augmentation, Syrinx Offers Top Talent
 
 For any company facing a software engineering challenge, competing priorities and projects demand time, skills and resources that are limited. Decision-makers have a number of options from hiring and managing full-time developers to outsourcing to off-shoring. A firm can hire their own full-time software engineers, but considering the expense and incredibly time-consuming processes of recruitment and retention, that may not be the best solution. Plus, many projects will not require the services of a software engineer on a long-term basis - instead, these will be short-term projects with fast-approaching deadlines. So, the better choice for many companies is to bring in software engineers on an as-needed basis. 
 

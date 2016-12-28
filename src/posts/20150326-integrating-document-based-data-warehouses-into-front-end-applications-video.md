@@ -1,9 +1,10 @@
-title: Integrating document-based data warehouses into front-end applications [VIDEO]
+---
+title: Integrating Data Warehouses Into Front-End Apps
+description: Document-based data warehouses bring together disparate sources and add context to create a unified, rich source of information.
+archive_title: Integrating document-based data warehouses into front-end applications [VIDEO]
+---
 
-+++
-
-
-# Integrating document-based data warehouses into front-end applications [VIDEO]
+# Integrating Data Warehouses Into Front-End Apps
 
 Transcript
 

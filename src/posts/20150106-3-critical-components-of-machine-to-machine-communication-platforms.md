@@ -1,9 +1,10 @@
-title: 3 critical components of machine-to-machine communication platforms
+---
+title: 3 Components of Machine-to-Machine Comm. Platforms
+description: There's a huge trend known as the Internet of Things, and organizations are figuring out how they can use the technology as a competitive advantage.
+archive_title: 3 critical components of machine-to-machine communication platforms
+---
 
-+++
-
-
-# 3 critical components of machine-to-machine communication platforms
+# 3 Components of Machine-to-Machine Communication Platforms
 
 In case you haven't heard, there's this huge trend known as the Internet of Things, and organizations are trying to figure out how they can use the technology as a competitive advantage.
 

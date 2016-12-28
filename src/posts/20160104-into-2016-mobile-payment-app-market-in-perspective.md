@@ -1,10 +1,11 @@
-title: Into 2016 - Mobile payment app market in perspective
+---
+title: 2016&#58; Mobile Payment App Market in Perspective
+description: Despite all the competition in the news, no brand has truly seized the mobile payment app market. This is plenty of room for competition!
+archive_title: Into 2016 - Mobile payment app market in perspective
 link: http://blogs.syrinx.com/mobile-development/into-2016-mobile-payment-app-market-in-perspective/
+---
 
-+++
-
-
-# Into 2016: Mobile payment app market in perspective
+# 2016: Mobile Payment App Market in Perspective
 
 The mobile payment app market has come a long way in the past 12 months. Standing on the precipice to 2016, it's apparent that no brand plans on slowing down. Even more, some businesses are even considering entering the mobile payments arena in the new year. In fact, 2016 is a great time to begin creating a mobile marketing strategy and developing a mobile payment app in tandem.
 

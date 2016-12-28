@@ -1,9 +1,10 @@
-title: The need to innovate in the payments industry
+---
+title: The Need to Innovate in the Payments Industry
+description: The payments industry is undergoing massive change. For years, payments companies essentially got by with business as usual&#58; not anymore.
+archive_title: The need to innovate in the payments industry
+---
 
-+++
-
-
-# The need to innovate in the payments industry
+# The Need to Innovate in the Payments Industry
 
 The payments industry is in the midst of undergoing massive change. For years, payments companies essentially got by with business as usual, making their profits in the most straightforward fashion: simply by charging their clients more money than the cost of processing. 
 

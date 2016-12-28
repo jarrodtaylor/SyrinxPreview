@@ -1,9 +1,10 @@
-title: The value of mobile payments at the gas pump [Video]
+---
+title: The Value of Mobile Payments at the Gas Pump
+description: As mobile payments become increasingly commonplace, an integrated gas pump POS system holds obvious appeal, and will likely become more popular.
+archive_title: The value of mobile payments at the gas pump [Video]
+---
 
-+++
-
-
-# The value of mobile payments at the gas pump [Video]
+# The Value of Mobile Payments at the Gas Pump
 
 Transcript
 

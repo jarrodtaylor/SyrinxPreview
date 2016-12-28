@@ -1,9 +1,10 @@
-title: Why back-end Hadoop integration is harder than it seems
+---
+title: Why Back-End Hadoop Integration is Hard
+description: When integrating Hadoop into an enterprise's infrastructure, it's preferable to partner up with consultants that stay with you every step of the way.
+archive_title: Why back-end Hadoop integration is harder than it seems
+---
 
-+++
-
-
-# Why back-end Hadoop integration is harder than it seems
+# Why Back-End Hadoop Integration is Harder Than it Seems
 
 Explaining Hadoop to someone with only a basic understanding of data architecture technology can be tough. Even most database administrators who are familiar with the open source solution would be hard-pressed to explain how to appropriately integrate Hadoop into an organization's back-end infrastructure and make it compatible with front-end applications.
 

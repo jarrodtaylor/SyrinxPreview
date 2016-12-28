@@ -1,9 +1,10 @@
-title: Is your m-commerce app suffering from these 4 ailments?
+---
+title: M-Commerce App Suffering From These 4 Ailments?
+description: We've identified four m-commerce app problems that obstruct optimal usability and make it difficult for proprietors to learn from their releases.
+archive_title: Is your m-commerce app suffering from these 4 ailments?
+---
 
-+++
-
-
-# Is your m-commerce app suffering from these 4 ailments?
+# M-Commerce App Suffering From These 4 Ailments?
 
 The business-to-consumer market is expanding at an enormous rate, especially as more people across the globe gain Internet access every year. 
 

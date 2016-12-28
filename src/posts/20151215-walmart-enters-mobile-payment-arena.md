@@ -1,9 +1,10 @@
-title: Walmart enters mobile payment arena
+---
+title: Walmart Enters Mobile Payment Arena
+description: Just when you've thought that all contenders have already entered the ring, another company introduces its solution to mobile payments&#58; Walmart.
+archive_title: Walmart enters mobile payment arena
+---
 
-+++
-
-
-# Walmart enters mobile payment arena
+# Walmart Enters Mobile Payment Arena
 
 Brands, retailers and banks are all struggling to remain relevant in an increasingly crowded mobile payment app arena. And just when you've thought that all contenders have already entered the ring, another company introduces its solution to mobile payments.
 

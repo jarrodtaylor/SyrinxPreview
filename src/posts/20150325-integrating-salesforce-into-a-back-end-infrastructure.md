@@ -1,9 +1,10 @@
-title: Integrating Salesforce into a back-end infrastructure
+---
+title: Integrating Salesforce In Back-End Infrastructure
+description: Customer relationship management solutions have become absolutely essential components of countless companies' operations. Syrinx explains why.
+archive_title: Integrating Salesforce into a back-end infrastructure
+---
 
-+++
-
-
-# Integrating Salesforce into a back-end infrastructure
+# Integrating Salesforce In Back-End Infrastructure
 
 Customer relationship management solutions have become absolutely essential components of countless companies' operations. CRM is invaluable for account managers, salespeople, executives and more, providing accessible, detailed, well-organized insight into a firm's clients. And when it comes to CRM, the biggest name in the game is undoubtedly Salesforce. Thousands of businesses rely on Salesforce's cloud-based offering for their CRM needs.
 

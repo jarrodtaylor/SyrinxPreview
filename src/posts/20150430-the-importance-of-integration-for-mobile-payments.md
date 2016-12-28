@@ -1,9 +1,10 @@
-title: The importance of integration for mobile payments
+---
+title: The Importance of Integration for Mobile Payments
+description: By embracing mobile payments now, business owners can gain a major advantage over competitors and attracting customers eager for the convenience.
+archive_title: The importance of integration for mobile payments
+---
 
-+++
-
-
-# The importance of integration for mobile payments
+# The Importance of Integration for Mobile Payments
 
 Not that long ago, the idea of using your phone to make a purchase would have seemed ridiculous, even absurd. Now, most consumers don't even bat an eye at the concept of mobile payments. On the contrary, it's becoming increasingly common for people to buy groceries, order takeout, pay for clothes and perform countless other transactions via their smartphones. Clearly, mobile payments are here to stay.
 

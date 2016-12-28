@@ -1,9 +1,10 @@
-title: Mobile e-commerce and the office retail space
+---
+title: Mobile E-Commerce and the Office Retail Space
+description: This is the perfect time for office retailers to launch mobile e-commerce initiatives and gain a competitive advantage over their industry rivals.
+archive_title: Mobile e-commerce and the office retail space
+---
 
-+++
-
-
-# Mobile e-commerce and the office retail space
+# Mobile E-Commerce and the Office Retail Space
 
 There's no denying that mobile e-commerce is a growing space. In fact, a Shopify survey from last year of more than 100,000 e-commerce stores found that, for the first time, mobile transactions were slightly more common than computer-based purchases. As the report explained, mobile e-commerce is increasingly becoming the default option for online shopping.
 

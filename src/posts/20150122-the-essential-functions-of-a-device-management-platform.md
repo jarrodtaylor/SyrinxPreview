@@ -1,8 +1,10 @@
-title: The essential functions of a device management platform
+---
+title: Key Functions of a Device Management Platform
+description: Massachusetts's Syrinx Consulting firm believes collecting, storing and processing data are signature features of device management platforms.
+archive_title: The essential functions of a device management platform
+---
 
-+++
-
-# The essential functions of a device management platform
+# Key Functions of a Device Management Platform
 
 A lot of IT enthusiasts often discuss how many smart devices will connect to the Internet in the near future, but set the "50 billion devices" hype aside for a moment and look at the use cases.
 

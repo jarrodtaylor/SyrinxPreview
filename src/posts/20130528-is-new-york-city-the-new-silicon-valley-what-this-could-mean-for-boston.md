@@ -1,9 +1,11 @@
-title: Is New York City the New Silicon Valley? (What this Could Mean for Boston)
+---
+title: NYC, New Tech Hub? (What This Means for Boston)
+description: The sale of Tumblr is letting people know that the east coast might just be the new Silicon Valley and Boston may become a major beneficiary.
+archive_title: Is New York City the New Silicon Valley? (What this Could Mean for Boston)
 link: http://blogs.syrinx.com/uncategorized/is-new-york-city-the-new-silicon-valley-what-this-could-mean-for-boston/
+---
 
-+++
-
-# Is New York City the New Silicon Valley? (What this Could Mean for Boston)
+# NYC, New Tech Hub? (What This Means for Boston)
 
 Around this time last week all anyone could read about was Tumblrs sale to Yahoo for $1.1 billion. There were stories detailing Tumblrs rise to prominence, stories pointing out the possible advantages for both parties, and stories reminding everyone that Yahoo has done this before and rather unsuccessfully at that. What got some what lost in the whole debate is the fact that Tumblr is the third New York based start-up to have been sold for over a billion dollars in the last year! The other two being Indeed, a job search website which was purchased for $1 billion by the Japanese company Recruit Co. Ltd., and Kayak, a travel website which was sold to Priceline for $1.8 billion. That's nearly $4 billion on three companies in one year.
 
