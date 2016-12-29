@@ -104,12 +104,12 @@ gulp.task 'buildMarkup', ['clean'], ->
       meta.title = title || options.default_title
       meta.endpoint = relative
       meta.canonical = options.base_url + meta.endpoint
-      
+
       if basename == 'index.html' && relative.indexOf(basename) != 0
         meta.canonical = options.base_url + dirname + '/'
       else if relative == 'index.html'
         meta.canonical = options.base_url
-        
+
       meta = merge meta, data.attributes
       chunk.contents = render data.body, meta
       this.push chunk
@@ -165,7 +165,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
         index += '<hr />'
     fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
     fs.writeFile "#{options.dist}/blog/index.html", render renderBlogIndex(index).toString(), meta_blog
-  
+
   meta_blog_archives = {
     title: 'Syrinx Blog Archives',
     canonical: options.base_url + 'blog/archive.html'
@@ -179,33 +179,34 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
   fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString(), meta_blog_archives
 
 gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog'], ->
+  console.log "building sitemap"
   lastmod = new Date().toISOString()
   sitemap_list = "<url><loc>" + options.base_url + "</loc><lastmod>#{lastmod}</lastmod></url>"
-  glob "#{options.dist}/**/*.html", (err, files) ->
-    for file in files
-      do (file) ->
-        relative = file.replace /[\/\\]/g, '/'
-        relative = relative.replace 'dist/', ''
-        dirname = path.dirname relative
-        basename = path.basename relative
-        canonical = options.base_url + relative
-        
-        if relative == '404.html'
-          return
-        else if relative == 'notfound/index.html'
-          return
-        else if relative == 'googlee887f98b5ed76460.html'
-          return
-        else if relative == 'index.html'
-          return
-          
-        if basename == 'index.html' && relative.indexOf(basename) != 0
-          canonical = options.base_url + dirname + '/'
-        else if basename == 'index.html'
-          canonical = options.base_url
+  for file in glob.sync("#{options.dist}/**/*.html")
+    do (file) ->
+      relative = file.replace /[\/\\]/g, '/'
+      relative = relative.replace 'dist/', ''
+      dirname = path.dirname relative
+      basename = path.basename relative
+      canonical = options.base_url + relative
 
-        sitemap_list += "<url><loc>#{canonical}</loc><lastmod>#{lastmod}</lastmod></url>"
-    fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
+      if relative == '404.html'
+        return
+      else if relative == 'notfound/index.html'
+        return
+      else if relative == 'googlee887f98b5ed76460.html'
+        return
+      else if relative == 'index.html'
+        return
+
+      if basename == 'index.html' && relative.indexOf(basename) != 0
+        canonical = options.base_url + dirname + '/'
+      else if basename == 'index.html'
+        canonical = options.base_url
+
+      sitemap_list += "<url><loc>#{canonical}</loc><lastmod>#{lastmod}</lastmod></url>"
+  console.log "writing sitemap"
+  fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
 
 gulp.task 'buildOptimizedImages', [], ->
   gulp.src "#{options.src}/assets/img/**/*"
