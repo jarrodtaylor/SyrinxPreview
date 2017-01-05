@@ -163,6 +163,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
         data = fm String(contents)
         index += markdown.toHTML data.body
         index += '<hr />'
+    index = index.replace(/<h1(.*?)<\/h1>/ig, '<h2 class="h1"$1</h2>')
     fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
     fs.writeFile "#{options.dist}/blog/index.html", render renderBlogIndex(index).toString(), meta_blog
 
