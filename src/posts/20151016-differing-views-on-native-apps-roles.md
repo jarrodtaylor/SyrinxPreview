@@ -37,7 +37,7 @@ Again, there's no certainty here, and it's undoubtedly true that many firms hav
 **The right approach**  
 So, given these conflicting interpretations, how should your business approach mobile app development?
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120076.jpg)
+![Download Whitepaper](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120076.jpg)
 
 The key for every decision-maker is to develop a thorough strategy early on that addresses what sort of impact and role the company hopes for the app to play. Given the industry, the market and the target demographic, does it make sense to aim for an app that serves as the bottom of the sales funnel? If the answer is yes, then that goal needs to be factored in to every stage of the design and development. 
 

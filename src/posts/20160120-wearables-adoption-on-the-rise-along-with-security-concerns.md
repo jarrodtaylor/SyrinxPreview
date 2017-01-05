@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/mobile-development/wearables-adoption-on-the-rise-
 
 Wearable technology shows tons of promise: Consumers can use smartwatches for completing retail transactions with mobile payment apps; banks can provide wearable apps for account management; and security purposes and corporations can arm their employees with quick and easy access to enterprise applications thanks to a variety of different devices. Many individuals realize this potential, and as such, wearables are slowly but surely becoming everyday technologies for many American shoppers and workers.
 
-![](/assets/img/blog/Smartwatches-will-soon-be-the-payment-method-of-choice-if-brands-and-banks-can-shore-up-security-concerns.jpg)
+![Smartwatch](/assets/img/blog/Smartwatches-will-soon-be-the-payment-method-of-choice-if-brands-and-banks-can-shore-up-security-concerns.jpg)
 
 According to an analysis conducted by eMarketer in October 2015, [almost 40 million American citizens](http://www.emarketer.com/Article/Wearable-Usage-Will-Grow-by-Nearly-60-This-Year/1013159) over the age of 18 have used either a smartwatch – such as the Apple Watch – or a fitness tracker – like the Fitbit. While that might only be around 16 percent of adults in the U.S., adoption rates of wearables have more than doubled in the past year alone. And eMarketer forecasts even more growth in 2016, predicting that around 64 million Americans will own a wearable device by the end of this year.
 
@@ -23,7 +23,7 @@ While the future certainly is bright for wearables and the apps that run on them
 
 "I see the explosion of wearable devices as a likely new area for potential privacy concerns," Pollack said, according to the source. "Just as with mobile devices, wearables are likely to expose new security threats, while getting real-time access to new types of data about individuals that has not been captured before. Especially as new applications are deployed on these devices, there will be unintended consequences when it comes to the protection and privacy of the user's personal data."
 
-![](/assets/img/blog/14122115.jpg)
+![Smartwatch Payments](/assets/img/blog/14122115.jpg)
 
 In fact, We Live Security's Stephen Cobb listed [all of the ways](http://www.welivesecurity.com/2015/12/08/wearables-wheres-the-risk/) that hackers can steal data when wearables are involved. Some of those attack vectors are inherent in the age of connectivity, such as Bluetooth connections, Wi-Fi and 4G, but other components of wearables will also introduce vulnerabilities: apps, app analytics systems, device firmware, Web browsers, APIs and even the backend infrastructure supporting them, such as the cloud. Or, a hacker could just steal a device.
 

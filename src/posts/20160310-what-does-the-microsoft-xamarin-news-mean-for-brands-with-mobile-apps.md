@@ -8,7 +8,7 @@ link: http://blogs.syrinx.com/mobile-development/what-does-the-microsoft-xamarin
 
 Consumers demand apps, and businesses keep supplying them, but many companies are struggling to maintain such a fast pace when it comes to mobile app development. After all, there are a lot of moving parts that must line up perfectly to develop an app in a traditional sense with all the bells and whistles – dedicated native developers, development tools, backend systems, testing environments and more. That is one of the major reasons why brands today are turning to rapid mobile app development.
 
-![](/assets/img/blog/Microsoft-agreed-to-acquire-Xamarin-and-the-results-could-be-great-for-businesses-using-that-mobile-app-development-platform_1947_40113884_0_14121249_500-320x200.jpg)
+![Microsoft-Xamarin News](/assets/img/blog/Microsoft-agreed-to-acquire-Xamarin-and-the-results-could-be-great-for-businesses-using-that-mobile-app-development-platform_1947_40113884_0_14121249_500-320x200.jpg)
 
 With approaches that entail quickly creating high-performing and great-looking apps, businesses are able to release their apps faster, which means generating a return on those investments sooner. But rapid mobile app development isn't just a strategy. It requires a solution: a mobile app development platform that provides frameworks and APIs for creating custom apps. That tool must also, however, allow developers to code apps that support all mobile device operating systems.
 

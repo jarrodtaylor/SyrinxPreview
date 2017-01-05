@@ -28,7 +28,7 @@ Somewhat similarly, Morton noted that API management plays a key role in navigat
 
 Last, but hardly least, Morton pointed out that API management is crucial when it comes to data governance. As companies rely on an increasingly diverse array of third-party applications, all of which gather sensitive information on users, there is an intense need to ensure that they remain compliant with all relevant regulations and standards. API management, when handled properly, can deliver this level of control.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120079.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120079.jpg)
 
 **Innovation potential**  
 Clearly, API management is becoming - or, arguably, has already become - essential for organizations looking to keep pace with the new technologies necessary to remain competitive. Shortcomings in this area will undermine companies' productivity and efficiency. Going further, high-quality API management can actually lead to [significant innovation](http://www.itproportal.com/2015/08/20/apis-best-kept-secret-innovation-application-economy/). Writing for IT Pro Portal, Ian Clark emphasized that API management is inherently concerned with the interaction between internal and external applications. The smoother these processes are, the better the firm will be able to explore new possibilities and deliver creative solutions to the market before their competitors. 

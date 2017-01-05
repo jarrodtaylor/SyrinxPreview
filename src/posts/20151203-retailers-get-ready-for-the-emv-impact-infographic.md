@@ -25,4 +25,4 @@ After October 30, customers will be able to use their EMV chip-based payment car
 
 Retailers can rest easy very soon, as POS integrators, payment application developers and gateway processors have created solutions for achieving EMV compliance. Fully integrated systems will work in conjunction with existing point-of-sale platforms, while "semi-integrated" solutions function with nominal POS interaction. Either way, retailers can seek out support to ensure that they successfully embrace their new EMV complaint POS systems.
 
-![](http://opticcf.brafton.com/14122393.image)
+![The EMV Impact Infographic](http://opticcf.brafton.com/14122393.image)

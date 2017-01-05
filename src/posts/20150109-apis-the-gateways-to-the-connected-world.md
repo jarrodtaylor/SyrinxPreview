@@ -28,7 +28,7 @@ While this particular solution is for the B2C consumer, the concept is just as a
 **Social media's use of APIs **  
 Many marketers may not realize just how important APIs are to their social media strategies. Every time a professional shares a blog about distribution management on LinkedIn or a teenager tweets a funny Christmas-themed video from a retailer, APIs are allowing such instances to occur. 
 
-![](http://pictures.brafton.com/x_0_0_0_14106385_800.jpg)Ever wonder how it's so easy for your customers to share your blogs on Facebook and LinkedIn?
+![Social Network Sharing](http://pictures.brafton.com/x_0_0_0_14106385_800.jpg)Ever wonder how it's so easy for your customers to share your blogs on Facebook and LinkedIn?
 
 Business 2 Community contributor Jason Bowden noted that social media platforms use APIs that enable companies [to construct Web apps](http://www.business2community.com/social-media/social-media-apis-data-collection-strategies-0887426) that will complement their own programming structures. In other words, the program on which your website functions can employ an API to establish a connection with a particular social media network, making information transfers between your website and Facebook, for example, incredibly easy. 
 

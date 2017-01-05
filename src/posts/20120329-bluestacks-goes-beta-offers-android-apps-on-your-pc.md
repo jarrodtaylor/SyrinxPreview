@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/bluestacks-goes-beta-offers-android-
 
 After attracting 1 million users from over 100 countries in its 3 month alpha phase, the ambitious startup [BlueStacks](http://bluestacks.com/) has released a free public beta version of their Android emulator.
 
-![](http://tctechcrunch2011.files.wordpress.com/2012/03/bluestacks_logo.jpg?w=288)
+![Bluestacks](http://tctechcrunch2011.files.wordpress.com/2012/03/bluestacks_logo.jpg?w=288)
 
  BlueStacks gives you the ability to access and run over 450,000 Android apps on your PC, giving you the ability to play Angry Birds on your 27" monitor. In all seriousness though, BlueStacks has value in that it offers developers a more practical way to test their apps, the Android-less crowd a chance to indulge in the massive app store, and current users more versatility and connectivity with their applications and devices.
 
@@ -17,7 +17,7 @@ After attracting 1 million users from over 100 countries in its 3 month alpha ph
 
 How it works is through a binary translation function, which BlueStacks calls Layercake, so make these programs that were originally developed for ARM processors to be compatible with your PC. This includes apps with hardware accelerated graphics, which is why games offer the best opportunity for BlueStacks to flex its muscles.
 
-![](http://twimgs.com/informationweek/byte/reviews/2012-March/BlueStacks/BlueStacks-01.jpg)
+![Bluestacks Screenshot](http://twimgs.com/informationweek/byte/reviews/2012-March/BlueStacks/BlueStacks-01.jpg)
 
 Of course, BlueStacks is still limited in a number of ways. It's not a full Android emulator, providing only the basic functions that allow apps to run. Amazon.com's Shopping App, for example, works well on BlueStacks, except for its barcode scanner. Since BlueStacks is unable to emulate an Android device's camera, either through your PC's webcam or otherwise, that function of the app only returns a blank screen.
 

@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/the-mission-to-make-boston-a-247-cit
 
 It is no secret that Boston is among the premiere technology, education, and healthcare hubs in the country. There is no shortage of A-list companies looking for equally qualified talent, but its waning ability to attract and retain that talent [has been the topic of much discussion](http://www.bizjournals.com/boston/news/2011/05/24/report-mass-seeing-severe-it-talent.html).
 
-[![](http://img.youtube.com/vi/4_fprJ-p3go/0.jpg)](http://www.youtube.com/watch?v=4_fprJ-p3go "The mission to make Boston a 24/7 city")
+[![The mission to make Boston a 24/7 city](http://img.youtube.com/vi/4_fprJ-p3go/0.jpg)](http://www.youtube.com/watch?v=4_fprJ-p3go "The mission to make Boston a 24/7 city")
 
 Greg Selkoe, the founder and CEO of local streetwear e-retailer Karmaloop, blames the city's bed time. He feels that lack of late night service by public transit, nightlife, and just about every shop and service is not congruent with Boston's abundance of start-ups and young identity. The consequence, he says based on feedback from prospective Karmaloop employees, is a "boring" city that contributes to the drop off in young skilled professionals.
 

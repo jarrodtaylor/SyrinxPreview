@@ -13,7 +13,7 @@ The ability to communicate with our devices has been a goal of researchers since
 
 Since then, the technology has improved enormously, mostly in the last 10 years or so. Voice activation software is now beginning to simulate a real person, or an assistant, who performs tasks and finds answers when asked to do so. Users can tell devices equipped with voice-control to find a phone number, get directions, set reminders and alarms, play music, search the web, send a text message, turn on and off lights, or change TV programming – and that’s just a short list. But all of these conveniences are not the only reason voice recognition technology is becoming more of a reality.
 
-![](/assets/img/blog/The-future-of-voice-recongnition-software.jpeg)
+![Man using Voice Recognition on Mobile Device](/assets/img/blog/The-future-of-voice-recongnition-software.jpeg)
 
 > Why voice recognition is so popular.
 

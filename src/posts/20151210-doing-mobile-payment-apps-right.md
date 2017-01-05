@@ -28,7 +28,7 @@ Having a single-trick mobile payment app won't help a brand achieve market domin
 
 "They're doing some of the more passive things," Beard said, according to the source. "Logging in to see their balance is one of the higher ranked items as well as checking recent transactions, again passive things."
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
 
 It's clear that mobile payments apps aren't just payment tools. Brands such as Cumberland Farms, for example, are able to offer consumers rewards directly from their apps, and this creates a sort of game-like experience where each transaction earns points. Apart from that, mobile payment apps should allow users to check their balances, share with friends and look up more information on products or services. If a company can keep consumers coming back to its app even when they don't need to buy something, then it is doing mobile payments right.
 

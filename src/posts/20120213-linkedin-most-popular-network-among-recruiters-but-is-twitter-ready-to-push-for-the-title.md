@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/linkedin-most-popular-network-among-
 
 As the effectiveness of job boards continues to decline, top recruiters constantly searching for alternative methods to source candidates. Social media has proven to be the next logical step, with no other online resource providing as much connectivity or personal information.
 
-![](/assets/img/blog/bullhorn2.jpg)
+![Recruiter Followers Graph](/assets/img/blog/bullhorn2.jpg)
 
 > Social media use by recruiters for staffing purposes.
 
@@ -19,7 +19,7 @@ To little surprise, the report showed that 48% of recruiters use LinkedIn exclus
 
 This ideal functionality made LinkedIn the first of the big three social networks to be embraced by recruiters. Bullhorn's data found that 28% of recruiters on LinkedIn, the largest segment, have over 1,000 connections on the site.
 
-![](/assets/img/blog/bullhorn1.jpg)
+![Recruiter Pie Chart](/assets/img/blog/bullhorn1.jpg)
 
 > Network sizes between the Big Three sites.
 

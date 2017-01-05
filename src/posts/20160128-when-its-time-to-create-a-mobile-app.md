@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/mobile-development/when-its-time-to-create-a-mobil
 
 In 2016, it's absolutely vital for a brand to offer a mobile app. More importantly, it's critical that any released mobile apps are the best they could possibly be. After all, so many other companies are providing mobile experiences that consumers can pick and choose the brands that offer the greatest apps.
 
-![](/assets/img/blog/No-one-ever-said-app-development-had-to-be-difficult-and-expensive.jpg)
+![App Development](/assets/img/blog/No-one-ever-said-app-development-had-to-be-difficult-and-expensive.jpg)
 
 It's time to create an amazing mobile app if your organization hasn't. This is the only way to engage your existing customers and clients as well as attract new ones that have yet to interact with your brand.
 

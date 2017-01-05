@@ -31,7 +31,7 @@ Additionally, Webster emphasized that mobile ordering is growing increasingly po
 **Mobile payment benefits**  
 Ultimately, though, the biggest reason why mobile payments is on the verge of experiencing broader adoption is that more success stories are appearing and gaining attention. 
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
 
 Notably, Webster pointed to Cumberland Farms and its SmartPay mobile application. She reported that Cumberland Farms has already sold $1 billion worth of gas through this app in the past two years. Cumberland Farms has also used SmartPay to reward 1.5 million free drinks to customers through an incentive program. Combined, this has a powerful impact.
 

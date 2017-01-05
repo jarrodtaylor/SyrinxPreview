@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/this-camera-prints-text-descriptions
 
 There is a humorous parody account on Twitter by the handle [@textinstagram](https://twitter.com/#!/textinstagram) which posts the usual suspects that you'd find on your Instagram feed, but in text form. Some gems among them are "Deadpan stare, no filter", "Airplane wing as viewed from two seats back", and the simple yet effective, "Feet".
 
-![](/assets/img/blog/descriptive-camera.jpg)
+![Descriptive Camera](/assets/img/blog/descriptive-camera.jpg)
 
 Believe it or not, NYU student and technologist Matt Richardson was able to construct an actual camera that essentially does just that.
 

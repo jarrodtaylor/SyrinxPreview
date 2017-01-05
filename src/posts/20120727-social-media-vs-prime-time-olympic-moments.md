@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/social-media-vs-prime-time-olympic-m
 
 With the Olympics going on today many people are wandering whether or not [social media will spoil the big moments](http://http://www.technewsworld.com/story/Will-Social-Media-Spoil-the-Olympics-75763.html). Because of the all of the different time zones and time delays that will take place during the games it will be hard to look at your twitter or Facebook feed with out reading that someone had just scored the winning goal before the game was even finished.
 
-![](/assets/img/blog/london-2012-logo.png)
+![London Olympics 2012](/assets/img/blog/london-2012-logo.png)
 
 Marcus Messner, a professor at Virginia Commonwealth University stated, "You have to stay off the Internet, ou can't avoid knowing who won if you are on Facebook or Twitter. The only way to save it for prime time is to stay off social media."
 

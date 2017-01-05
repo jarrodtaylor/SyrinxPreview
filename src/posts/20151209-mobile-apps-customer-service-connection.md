@@ -24,7 +24,7 @@ Empowering support agents with mobile apps is a great way to improve relationshi
 
 In fact, 64 percent of mobile marketers reported that customer service improvements and loyalty boosts are [the leading reasons](http://security.itbusinessnet.com/article/New-Survey-Reveals-Top-Priority-for-Enterprise-Mobile-Apps-Is-to-Improve-Customer-Experience-Create-Long-Term-Customer-Value-and-Loyalty-4172861) for creating a mobile app in the first place, according to survey results provided by FollowAnalytics. Armed with a mobile app, consumers can always contact a brand and solve a problem or find information, which demonstrates that that organization cares about its clients. After all, getting assistance from anywhere is a primary factor driving the adoption of smartphones to begin with.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120079.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120079.jpg)
 
 Contributing to USwitch, Jonathan Leggett reported that [Apple is investing specifically in an app](http://www.uswitch.com/mobiles/guides/uswitch-exclusive-leaked-photos-emerge-of-apple-app-for-improving-iphone/) that provides customer service. The mobile app essentially puts the "Genius Bar" at users' fingertips, and with it, consumers can troubleshoot issues themselves - self-service is huge in 2015 and will continue to be in 2016 - or schedule in-store consultations or repairs. Enterprises should take note of Apple's customer service strategy, especially considering that Apple started the whole mobile app revolution.
 

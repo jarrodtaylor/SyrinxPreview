@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/news/syrinx-partners-with-cloud-and-soa-experts-vo
 
 Syrinx Consulting is proud to announce [our latest partnership with with Vordel](http://online.wsj.com/article/PR-CO-20120320-906239.html), a company that specializes in using new technology such as mobile computing, social networking, and Cloud computing to help companies build revenue, improve customer intimacy, and lower their costs. With Vordel recently launching their  [Sharepoint Gateway](http://www.vordel.com/solutions/sharepoint_gateway.html) services, we are happy to offer our extensive Sharepoint experience in order to ensure customers an optimal experience.
 
-![](/assets/img/blog/vordel.png)
+![Vordel](/assets/img/blog/vordel.png)
 
 As a Microsoft Gold Certified partner, Syrinx has specialized in rapid application development in the Sharepoint platform since 1998. Developer founded and devleoper run, Syrinx offers Vordel knowledge in secure and efficient Sharepoint portals in order to maximize performance. Ed Jackowiak, VP of North American Sales for Vordel believes that "the combination of expertise offered by Vordel and Syrinx makes integrating and accessing data securely across Microsoft SharePoint and non-SharePoint environments a seamless process so users can collaborate, make decisions and close business faster."
 

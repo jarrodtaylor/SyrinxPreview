@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/the-days-of-ad-free-skyping-are-endi
 
 On June 12 around noon, Skype announced something that all users dread. The well known video-chat program is going to be [implementing advertisements](http://techcrunch.com/2012/06/13/skype-for-windows-now-features-conversation-ads/) during one-on-one Skype-to-Skype audio calls. Just when we thought it couldn't get any worse with advertisements completely flooding YouTube videos, Skype decides to drop this news on us.
 
-![](/assets/img/blog/skype-conversation-ads.jpg)
+![Skype Ads](/assets/img/blog/skype-conversation-ads.jpg)
 
 Of course this is simply a brilliant marketing strategy for Skype, because not only will the company be making money off of the ads but it will also increase user subscriptions, as users who have a subscription to the site or have Skype credits will be able to chat ad-free. On a positive note, at least the ads will be silent and won't be that disturbing during audio calls.
 

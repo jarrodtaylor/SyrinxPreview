@@ -32,7 +32,7 @@ Oracle conducted a survey consisting of 20 in-depth interviews with chief execut
 
 Consider the wind turbine example cited earlier. The M2M platform ultimately manages the operability of an entire wind farm. If a hacker managed to infiltrate that M2M solution, it's possible that he or she could shut down the turbines, effectively costing the energy provider hundreds of millions of dollars, depending on the scale of the operation.
 
-![](http://pictures.brafton.com/x_0_0_0_14099001_800.jpg)Securing M2M solutions is a must.
+![Security](http://pictures.brafton.com/x_0_0_0_14099001_800.jpg)Securing M2M solutions is a must.
 
 **3\. Scalability **  
 Whether it involves installing new devices or simply handling more data, M2M platforms must be able to expand and contract based on the assets they're supporting. Jim Morrish, director and founder of Machina Research and contributor to the Bosch ConnectedWorld Blog, maintained the importance of [building an M2M solution](http://blog.bosch-si.com/categories/technology/2013/11/ideal-functionality-of-m2m-iot-application-platforms/) that can access computing, storage and networking resources based on the needs of the devices connected to them.

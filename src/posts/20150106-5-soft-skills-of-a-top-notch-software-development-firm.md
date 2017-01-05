@@ -30,7 +30,7 @@ It's important to collaborate with a software developer that isn't afraid to not
 
 That being said, there is such a thing as excessive pride. If a prospective software development partner's website is packed with boastful, self-laudatory rhetoric, then move on. The content on the business' website reflects the attitudes of the people who work there. Bottom line: You're looking for confidence and humility.
 
-![](http://pictures.brafton.com/x_0_0_0_14109093_800.jpg)Before going live, software developers must thoroughly assess their work for bugs.
+![Go Live](http://pictures.brafton.com/x_0_0_0_14109093_800.jpg)Before going live, software developers must thoroughly assess their work for bugs.
 
 **4\. They acknowledge when mistakes are made **  
 No programmer is perfect - even prodigies are capable of making mistakes. However, if a developer fails to acknowledge a fault he or she made or slyly attempts to place the blame on someone else, the project is going to be hampered by underlying tensions. Not to mention, once the solution is deployed, end-users will most likely notice bugs that are either annoying or downright frustrating. 

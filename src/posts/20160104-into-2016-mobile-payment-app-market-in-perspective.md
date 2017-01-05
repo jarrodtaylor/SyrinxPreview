@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/mobile-development/into-2016-mobile-payment-app-ma
 
 The mobile payment app market has come a long way in the past 12 months. Standing on the precipice to 2016, it's apparent that no brand plans on slowing down. Even more, some businesses are even considering entering the mobile payments arena in the new year. In fact, 2016 is a great time to begin creating a mobile marketing strategy and developing a mobile payment app in tandem.
 
-![](/assets/img/blog/The-mobile-payment-market-is-very-ripe.jpg)
+![Mobile Payment Market](/assets/img/blog/The-mobile-payment-market-is-very-ripe.jpg)
 
 ## An open market
 
