@@ -17,7 +17,7 @@ According to Computer Business Review Online, a 34SP survey of U.K. mobile users
 Here are four ways brands can prevent their mobile apps from getting deleted.
 
 **1\. Make it intuitive**  
-Apple introduced the world to mobile device simplicity and intuitiveness, and since then, that's all consumers want out of their mobile apps. Apadmi found that 56 percent of U.K. mobile users believe that branded apps [could function "better,"](http://www.apadmi.com/wp-content/uploads/2015/11/retail-app-report-november-2015.pdf) while 43 percent indicated that they wished mobile payment apps were "easier" to use. Simply put, enterprises must listen to those individuals and deliver a mobile app that abandons frills and thrills, replacing them with clean user interfaces and simple ways to complete activities.
+Apple introduced the world to mobile device simplicity and intuitiveness, and since then, that's all consumers want out of their mobile apps. Apadmi found that 56 percent of U.K. mobile users believe that branded apps [could function "better,"](https://www.apadmi.com/assets/uploads/2015/11/retail-app-report-november-2015.pdf) while 43 percent indicated that they wished mobile payment apps were "easier" to use. Simply put, enterprises must listen to those individuals and deliver a mobile app that abandons frills and thrills, replacing them with clean user interfaces and simple ways to complete activities.
 
 In an interview with Forbes, Suzanne Noble, founder and CEO of Frugl, recommended [removing distractions](http://www.forbes.com/sites/kathycaprino/2015/12/01/what-you-need-to-know-to-create-a-successful-app-on-a-shoestring/) and making it easy to navigate menus as well as accomplish goals - such as buying an item or looking up product information.
 
