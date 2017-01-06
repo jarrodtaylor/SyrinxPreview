@@ -89,17 +89,29 @@ gulp.task 'buildMarkup', ['clean'], ->
       relative = chunk.relative.replace /[\/\\]/g, '/'
       dirname = path.dirname relative
       basename = path.basename relative
+      slug = basename.replace('.html','')
+      bodyClass = 'page'
+
+      if dirname && dirname.length > 0
+        bodyClass += ' ' + dirname
+        bodyClass += ' ' + dirname + '-' + slug
+      else
+        bodyClass += ' ' + slug
 
       if basename == 'index.html' && relative.indexOf(basename) != 0
         title = dirname.replace(/-/g, ' ').trim()
+        bodyClass = dirname
+      else if relative == 'index.html'
+        bodyClass = 'home'
       else
-        title = basename.replace('.html','').replace(/-/g, ' ').trim()
+        title = slug.replace(/-/g, ' ').trim()
 
       if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx'
 
       data = fm String(chunk.contents)
       meta = {}
+      meta.bodyClass = ''
       meta._file = basename
       meta.title = title || options.default_title
       meta.endpoint = relative
@@ -111,6 +123,7 @@ gulp.task 'buildMarkup', ['clean'], ->
         meta.canonical = options.base_url
 
       meta = merge meta, data.attributes
+      meta.bodyClass = bodyClass + ' ' + meta.bodyClass
       chunk.contents = render data.body, meta
       this.push chunk
       callback null
@@ -123,6 +136,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       basename = path.basename chunk.path
       title = basename.replace('.md','').split('-').slice(1).join(' ').trim()
       archive_title = title;
+      bodyClass = 'blog-post'
 
       if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx Blog'
@@ -130,6 +144,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
 
       data = fm String(chunk.contents)
       meta = {}
+      meta.bodyClass = ''
       meta._file = basename
       meta.title = title || options.default_title
       meta.archive_title = archive_title || ''
@@ -138,6 +153,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       date = basename.split('-')[0]
       meta.date = "#{date.substring(0, 4)}-#{date.substring(4, 6)}-#{date.substring(6, 8)}"
       meta = merge meta, data.attributes
+      meta.bodyClass = bodyClass + ' ' + meta.bodyClass
       chunk.contents = render markdown.toHTML(data.body), meta
       this.push chunk
       archive_list.push meta
@@ -153,7 +169,8 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
   meta_blog = {
     title: 'Software Development Blog from Syrinx',
     description: "Syrinx's blog is where users can find news, insights, theories, and more from the Massachusetts software development firm.",
-    canonical: options.base_url + 'blog/'
+    canonical: options.base_url + 'blog/',
+    bodyClass: 'blog'
   }
 
   fs.readdir "#{options.src}/posts/", (err, files) ->
@@ -169,7 +186,8 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
 
   meta_blog_archives = {
     title: 'Syrinx Blog Archives',
-    canonical: options.base_url + 'blog/archive.html'
+    canonical: options.base_url + 'blog/archive.html',
+    bodyClass: 'blog-archive'
   }
   archive_list = archive_list.reverse()
   archive = ""
