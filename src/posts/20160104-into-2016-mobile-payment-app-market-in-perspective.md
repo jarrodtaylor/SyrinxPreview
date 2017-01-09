@@ -15,7 +15,7 @@ The mobile payment app market has come a long way in the past 12 months. Standin
 
 Simply put, despite all the competition in the news, no brand has truly seized the mobile payment app market. This is plenty of room for competition since not everyone is using them yet.
 
-Retale conducted a survey at the beginning of November and found that 64 percent of mobile device owners [haven't used a mobile payment app](http://www.retale.com/corporate/survey-56-want-to-use-mobile-pay-when-shopping-this-holiday-season/) to purchase goods and services in person. However, the firm also discovered that 56 percent of respondents would use one of those apps during the 2015 holiday season.
+Retale conducted a survey at the beginning of November and found that 64 percent of mobile device owners [haven't used a mobile payment app](http://www.retale.com/corporate/white-papers/survey-56-want-to-use-mobile-pay-when-shopping-this-holiday-season/) to purchase goods and services in person. However, the firm also discovered that 56 percent of respondents would use one of those apps during the 2015 holiday season.
 
 > 64% of mobile device owners haven't used a mobile payment app yet.
 
