@@ -25,3 +25,7 @@ insertMarkdown = (from, into) ->
     if (xhr.readyState == 4)
       document.getElementById(into).innerHTML = marked(xhr.responseText)
   xhr.send()
+
+if window.deferredInline
+  window.deferredInline.forEach (runnable) ->
+    runnable()
