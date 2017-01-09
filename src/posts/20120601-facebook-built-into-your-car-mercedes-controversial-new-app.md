@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/facebook-built-into-your-car-mercede
 
 Mike VanNieuwkuyk, the executive director for Global Auto at J.D. Power Associates feels as though the comfortability of a car far outweighs the dangers it can do to other drivers on the road. In the newer models of the Mercedes Benz cars, a system known as ['Mbrace2'](http://www.technewsworld.com/story/74156.html) will allow drivers to access Facebook and other web applications on the dashboard of their car.
 
-![](/assets/img/blog/fb_car.jpg)
+![Facebook Built into Mercedes Car](/assets/img/blog/fb_car.jpg)
 
 VanNieuwkuyk, stated that "The interior environment is becoming a personalized space for consumers," he told TechNewsWorld. "We spend so much time in our cars these days that we've created a desire that this space to become more comfortable." However, numerous people have argued that updating your Facebook status isn't as important as watching the road. People have taken into perspctive the distraction that it may be to its drivers. Several have stated that with all the distractions that are present on the road today such as texting and cell phone use, adding Facebook to a car isn't benefiting drivers; it's merely hurting them.
 

@@ -13,7 +13,7 @@ Walmart announced that it [will launch Walmart Pay](http://www.nytimes.com/2015/
 **Where's the NFC?**  
 While Apple, Samsung, Google and others take advantage of near-field communication - a technology that allows users to simply tap their embedded mobile device to make transactions - Walmart is using QR codes to enable a "smoother trek through checkout lines," the source reported. This approach ensures that regardless of shoppers' smartphone brands, features or operating systems, they can still pay for products with Walmart Pay. Consumers just need to download the app, register with either a gift card or credit card, open the app during the transaction and use their smartphones' camera to scan a QR code that pops up at the register.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
 
 **More than just payments**  
 Walmart has a few tricks up its sleeve to get consumers using their mobile payment app. The New York Times noted that Walmart Pay will integrate with the flagship Walmart mobile app. This will allow users to do much more than simply pay for products. For example, the source explained that shoppers can compare prices directly from the payment app. Additional capabilities and features could actually be what sets Walmart Pay apart from Apple, Samsung and Google's solutions - besides the technological aspect.

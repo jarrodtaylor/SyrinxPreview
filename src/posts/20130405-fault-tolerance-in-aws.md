@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/enterprise-application-development/fault-tolerance
 
 Architecting for fault tolerance is hard. One way we mitigate faults is by building automatic redundancies. That is, we architect software in such a way that if a component fails, a backup kicks in to restore functionality so the system as a whole doesn't fail. This could mean maintaining 100% functionality with no noticeable impact or the system could continue to operate in a degraded service mode. In this way we have accepted faults as a fact of life; we understand that the question isn't IF, it’s WHEN.
 
-![](/assets/img/blog/fault_tolerence_cloud.png)
+![Fault Tolerence](/assets/img/blog/fault_tolerence_cloud.png)
 
 Software creation has long been compared to building a bridge. Think of the rivets in the Golden Gate Bridge. There are over 1.2 million rivets combined in the two towers. Of those 1.2 million rivets, a lot will fail. Ultimately, they will all fail (hopefully not at the same time) due to their age and the exposure to the environment. In fact, a high percentage of them COULD fail at the same time and the bridge won’t collapse. [Just look at all it](https://farm4.staticflickr.com/3636/3332544404_3836dc94bb_z.jpg)! That’s real life redundancy. As a side note, when rivets fail they are replaced with high strength steel bolts. Speaking of bolts, the cable bolts must be retightened from time to time because of constant temperature and load changes which cause the bolts to relax. But again, some bolts could fail without losing an entire cable.
 

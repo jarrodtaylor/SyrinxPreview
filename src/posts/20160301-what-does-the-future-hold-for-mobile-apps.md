@@ -8,7 +8,7 @@ link: http://blogs.syrinx.com/mobile-development/what-does-the-future-hold-for-m
 
 Mobile apps connect consumers to everything: Their friends and family, brands and associations, news sources and gaming communities. They also allow people to shop, be entertained, speak their minds, pay for products, learn and engage in their hobbies. Mobile apps rule the world, making Steve Jobs' motto "There's an app for everything" ring truer than ever. And they are not going away anytime soon.
 
-![](/assets/img/blog/In-order-to-keep-consumers-engaged-on-mobile-devices-brands-will-need-to-ensure-their-apps-are-up-to-date-with-the-latest-features_1947_40114058_0_14118194_500-320x200.jpg)
+![Engaged Consumer](/assets/img/blog/In-order-to-keep-consumers-engaged-on-mobile-devices-brands-will-need-to-ensure-their-apps-are-up-to-date-with-the-latest-features_1947_40114058_0_14118194_500-320x200.jpg)
 
 
 Mobile apps have become so ingrained in modern life that no one can picture themselves not using apps on a daily basis. In fact, it's just the opposite. According to Localytics, [92 percent of consumers](http://info.localytics.com/blog/new-study-reveals-what-app-users-want-localytics) said that they will use either the same number of apps or more of them in the future. They're too valuable to put away.

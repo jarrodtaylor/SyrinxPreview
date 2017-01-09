@@ -8,7 +8,7 @@ link: http://blogs.syrinx.com/mobile-development/full-stack-developers-arent-req
 
 Nowadays, a mobile app needs to provide it all. It must have a great user interface that provides consumers with a variety of features and capabilities while avoiding the complexities that can come with too many options. Beyond that, a mobile app has to ensure it's bug- and glitch-free, as well as perform optimally, regardless of the devices it's opened on or the other apps running in the background. It should offer something that is unique, such as a loyalty or rewards program, as that can keep users engaged and frequently interacting. And perhaps most importantly, a mobile app must seamlessly connect with existing accounts to provide a personalized experience.
 
-![](/assets/img/blog/Many-brands-turn-to-fullstack-developers-for-mobile-app-development-but-those-skilled-professionals-are-really-required-to-build-great-apps_1947_40114323_0_14082805_500-320x200.jpg)
+![Binary Numbers](/assets/img/blog/Many-brands-turn-to-fullstack-developers-for-mobile-app-development-but-those-skilled-professionals-are-really-required-to-build-great-apps_1947_40114323_0_14082805_500-320x200.jpg)
 
 That probably sounds like a lot, but in the extremely competitive app market of 2016, overlooking a single feature, capability or end-user expectation could spell disaster – a poor review or, worse, a deleted app.
 

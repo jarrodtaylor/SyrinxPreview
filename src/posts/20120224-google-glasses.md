@@ -15,7 +15,7 @@ The sky (or, well, Android) is the limit for what these glasses can be capable o
 
 > Overlay Google Maps onto the real world, and navigation becomes effortless. Overlay reviews and menus onto restaurant storefronts as you pass them; overlay nutritional data onto your plate as you eat; overlay purchasing info if you particularly admire your co-worker's new shoes; overlay translations of foreign signage, breaking news, hilarious kittens romping at your feet.
 
-![](/assets/img/blog/terminator.jpg)
+![Terminator Graphic](/assets/img/blog/terminator.jpg)
 
 As smartglasses become popular, the world will start to seem naked and inaccessible without a glossy data layer on everything.
 

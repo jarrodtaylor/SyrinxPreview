@@ -9,7 +9,7 @@ link: http://blogs.syrinx.com/uncategorized/startup-kullect-innovates-microblogg
 
 These days, taking a look at a Facebook news feed, Twitter timeline, or Instagram feed provides a sometimes overwhelming, disjointed, and out of context stream of consciousness from friends and follows. The era of microblogging, a term applied to these social media platforms that encourage sharing sporadic bursts of brief content, has provided a surge in our daily media intake.
 
-![](/assets/img/blog/kullect.png)
+![Kullect](/assets/img/blog/kullect.png)
 
 UCLA grads Sasank Reddy and Jeff Mascia have attempted to change this current state of blogging with their young social media app, Kullect. Recently [walking away with Best Startup honors at the Where 2012 Conference](http://blog.kullect.com/post/20537753067/kullect-voted-best-startup-at-where-2-0), Reddy and Mascia have developed an app that aims to categorize media into user-defined collections (or "kullections") in an effort to organize the stream that is our lives.
 

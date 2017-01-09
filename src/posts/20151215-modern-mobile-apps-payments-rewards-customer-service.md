@@ -23,7 +23,7 @@ Not to be outdone, Google plans to inject reward programs into Android Pay, as w
 
 That idea can be applied to any brand's mobile payment app strategy. Whether a company already has a mobile app or it needs one desperately, releasing a rewards program feature will encourage consumers to use that app more frequently. After all, individuals have historically reacted to incentives positively, and by adding point-accrual capabilities to a mobile app, customers can use loyalty accounts more frequently and earn points with ease. It's a lot simpler to use a mobile payment app then keep track of dozens of rewards programs cards - and wallets won't be as heavy.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
+![Download Case Study](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120078.jpg)
 
 **Part of a larger customer service strategy**  
 Mobile apps exist for the consumer, and brands need to give those individuals what they want. In that regard, customers hope to use mobile payment apps, but without an incentive, they lack the drive. A mobile payment app with a loyalty program gives consumers a reason to use it, and they get free goods and services in return.

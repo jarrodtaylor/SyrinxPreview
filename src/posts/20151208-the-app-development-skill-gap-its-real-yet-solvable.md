@@ -24,7 +24,7 @@ The application development skills gap shows no sign of closing anytime soon, bu
 
 CA Technologies explained that some businesses are improving their application development practices, while others bang their heads against the wall looking for skilled developers. For the former, organizations can consider new techniques such as agile development. DevOps and scrum are both popular, and they put the focus on delivering improvements over time, improving applications step by step and feature by feature. While this approach is a good idea, small changes may not have huge impacts.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120076.jpg)
+![Download Whitepaper](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120076.jpg)
 
 Therefore, many organizations are just looking for talent all the time. This is obviously necessary, but with major tech firms such as Google, Twitter, Amazon and Facebook always seeking skilled developers, most businesses are fighting an uphill battle. Most IT professionals will opt for more tech-oriented companies, but this could be beneficial for enterprises that need more applications.
 

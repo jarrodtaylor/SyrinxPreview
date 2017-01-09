@@ -24,4 +24,4 @@ That may seem like a lot to keep in mind, and it is. That's why it's so valuable
 
 To highlight the value of partnering with Syrinx Consulting for mobile payment app creation, consider the case of Cumberland Farms. We developed and launched a mobile pay app for Cumberland in nine months. One year later, that app had delivered $100 million in incremental revenue.
 
-![](http://opticcf.brafton.com/14113676.image)
+![Competitive Advantage with Mobile Payments Infographic](http://opticcf.brafton.com/14113676.image)

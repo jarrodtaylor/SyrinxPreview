@@ -26,7 +26,7 @@ While developing dozens of apps to keep up with business demands is a much-prais
 
 Xamarin, in particular, offers real device testing solutions, and according to TechTarget, that method for putting mobile apps through the rigors [is the most accurate](http://searchsoftwarequality.techtarget.com/tip/Emulator-vs-real-device-testing-Do-you-have-to-choose). In addition, cloud solutions allow enterprises to test their mobile apps in an automated fashion, ensuring that testing doesn't take up too many resources.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)
+![Download Whitepaper](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)
 
 **Continuously deliver**  
 Nowadays, launching a bug-free mobile app isn't enough. Businesses must support their apps throughout their entire lifecycles if they want consumers to stay engaged and employees to remain productive.

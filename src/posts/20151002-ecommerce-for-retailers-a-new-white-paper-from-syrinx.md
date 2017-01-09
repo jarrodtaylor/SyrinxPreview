@@ -27,4 +27,4 @@ The white paper also addresses the ways that eCommerce will vary for enterprise-
 
 This white paper is by no means exhaustive. But if you are a decision-maker in the retail space and are looking to start or upgrade your eCommerce efforts, this document should serve as a good primer. 
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)
+![Download Whitepaper](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)

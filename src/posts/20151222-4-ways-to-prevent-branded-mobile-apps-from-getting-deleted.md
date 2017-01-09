@@ -26,7 +26,7 @@ Brands are struggling to release mobile apps as fast as possible in hopes of str
 
 The solution here is simple, but not enough organizations engage with this best practice: Mobile app testing. Using cloud services or tools, mobile app developers can identify bugs, glitches and other issues while they develop, but most importantly, before they launch those apps.
 
-![](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)
+![Download Whitepaper](http://media.syrinx.com/media/06320ed4-4f81-4d18-8d4f-45d509c0f959/img/3340/14120080.jpg)
 
 **3\. Offer usefulness**  
 There are so many mobile apps on the market and available for free that brands need to differentiate themselves from others, while still retaining useful tools for completing transactions, looking up product information and generally interacting with their favorite companies. Computer Business Review Online noted that 39 percent of U.K. mobile users who deem an app as "useless" will drop it in the trash.
