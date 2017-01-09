@@ -13,7 +13,7 @@
     to
       font-size: 1em
 
-  h1
+  h1,.h1
     color: white
     margin: 0
     display: table-cell
@@ -23,6 +23,7 @@
     text-shadow: 1px 1px 1px black
     background-color: rgba(0, 0, 0, .5)
     font-size: 7em
+    font-weight: bold
     animation-name: billboard-h1
     animation-duration: .33s
     line-height: 1em
@@ -32,41 +33,41 @@
 body.home #billboard
   background-image: url('assets/img/billboards/home.jpg')
   height: 540px
-  h1
+  h1,.h1
     padding-bottom: .5em
-  h1:before
+  h1:before,.h1:before
     content: "We Ship Software"
 body.services #billboard
   background-image: url('assets/img/billboards/services.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "What We Do"
 body.case-studies #billboard
   background-image: url('assets/img/billboards/case_studies.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Our Work"
 body.company #billboard
   background-image: url('assets/img/billboards/company.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Who We Are"
 body.blog #billboard
   background-image: url('assets/img/billboards/blog.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Sharing Our Ideas"
 body.jobs #billboard
   background-image: url('assets/img/billboards/jobs.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Work With Us"
 body.contact #billboard
   background-image: url('assets/img/billboards/contact.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Get In Touch"
 body.notfound #billboard
   background-image: url('assets/img/billboards/notfound.jpg')
-  h1:before
+  h1:before,.h1:before
     content: "Not Found"
 body.xamarin #billboard
   background-image: url('assets/img/billboards/contact.jpg')
-  h1
+  h1,.h1
     font-size: 4em
     @media (max-width: 1000px)
       font-size: 2.5em
@@ -79,14 +80,14 @@ body.xamarin #billboard
   #billboard
     height: 300px
     margin-bottom: -3em
-    h1
+    h1,.h1
       font-size: 5em
   body.home #billboard
     height: 360px
 
 @media (max-width: 540px)
   #billboard
-    h1
+    h1,.h1
       font-size: 3em
 
 p.billboard-buttons

@@ -7,12 +7,17 @@ article
   max-width: 1024px
   padding: 0 1em
 
-  h1, h2
+  h1, h2, .h1
     font-family: oswald
     line-height: 1em
 
+  .h1
+    font-size: 2em
+    font-weight: bold
+    margin: .67em 0
+
   @media (max-width: 767px)
-    h1
+    h1, .h1
       font-size: 1.8em
       text-align: left !important
 
@@ -82,7 +87,7 @@ article
     background-repeat: no-repeat
     box-shadow: 1px 1px 3px #333
 
-    h1
+    h1,.h1
       color: silver !important
       text-align: center
       line-height: 300px
