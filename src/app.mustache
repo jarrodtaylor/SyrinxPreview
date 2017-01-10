@@ -7,7 +7,6 @@
   {{#canonical}}<link rel="canonical" href="{{{canonical}}}">{{/canonical}}
   {{#robots}}<meta name="robots" content="{{{robots}}}">{{/robots}}
   <link rel="icon" href="/assets/img/favicon.png" type="image/png">
-  <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
   <link rel="stylesheet" href="/assets/css/pure-min.css">
   <!--[if lte IE 8]>
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
@@ -50,11 +49,8 @@
     }
   };
 
-  (function(d) {var wf = d.createElement('script'), s = d.scripts[0];wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';s.parentNode.insertBefore(wf, s);})(document);
+  (function(d) {var wf = d.createElement('script'), s = d.scripts[0];wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6/webfont.js';s.parentNode.insertBefore(wf, s);})(document);
   </script>
-
-  <script src="/assets/js/marked.js" charset="utf-8"></script>
-  <script src="/app.js" charset="utf-8"></script>
 
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -64,7 +60,7 @@
   })(window,document,'script','dataLayer','GTM-5P42XHQ');</script>
   <!-- End Google Tag Manager -->
 </head>
-<body onload="classify()">
+<body class="{{bodyClass}}">
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P42XHQ"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -120,6 +116,10 @@
     </p>
     <p>Copyright &copy; 2016 Syrinx Consulting Corporation. All Rights reserved.</p>
   </footer>
+
+  <script src="https://use.fontawesome.com/47ad468c8e.js"></script>
+  <script src="/assets/js/marked.min.js" charset="utf-8"></script>
+  <script src="/app.min.js" charset="utf-8"></script>
 
   <script type="text/javascript">
     //<![CDATA[

@@ -26,5 +26,6 @@ description: Our currently open positions are always posted on Dice.com and are 
 <div id="jobs_md"></div>
 
 <script>
-  insertMarkdown('https://raw.githubusercontent.com/wiki/Syrinx/Syrinx.github.io/Jobs.md', 'jobs_md');
+  window.deferredInline = window.deferredInline || [];
+  deferredInline.push(function(){insertMarkdown('https://raw.githubusercontent.com/wiki/Syrinx/Syrinx.github.io/Jobs.md', 'jobs_md')});
 </script>

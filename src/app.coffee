@@ -1,9 +1,3 @@
-classify = ->
-  path = window.location.pathname.split('/')[1]
-  document.getElementsByTagName('body')[0].className = path or 'home'
-  document.getElementsByTagName('link')[0].setAttribute('href', window.location)
-  document.getElementsByTagName('link')[1].setAttribute('href', window.location)
-
 toggleNav = (event) ->
   event.preventDefault()
   nav = document.getElementsByTagName('nav')[0]
@@ -31,3 +25,7 @@ insertMarkdown = (from, into) ->
     if (xhr.readyState == 4)
       document.getElementById(into).innerHTML = marked(xhr.responseText)
   xhr.send()
+
+if window.deferredInline
+  window.deferredInline.forEach (runnable) ->
+    runnable()
