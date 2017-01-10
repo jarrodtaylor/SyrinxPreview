@@ -84,7 +84,6 @@ gulp.task 'buildCoffee', ['clean'], ->
   gulp.src "#{options.src}/**/*coffee"
     .pipe concat 'app.js'
     .pipe coffee bare: true
-    .pipe uglify()
     .pipe gulp.dest options.dist
     .pipe rename 'app.min.js'
     .pipe uglify()
