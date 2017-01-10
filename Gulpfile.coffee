@@ -11,10 +11,10 @@
 fm       = require 'front-matter'
 glob     = require 'glob'
 gulp     = require 'gulp'
+clean    = require 'gulp-clean'
 coffee   = require 'gulp-coffee'
 concat   = require 'gulp-concat'
 connect  = require 'gulp-connect'
-del      = require 'del'
 fs       = require 'fs'
 path     = require 'path'
 htmlmin  = require 'gulp-htmlmin'
@@ -24,6 +24,7 @@ mustache = require 'mustache'
 pages    = require 'gulp-gh-pages'
 rename   = require 'gulp-rename'
 stylus   = require 'gulp-stylus'
+uglify   = require 'gulp-uglify'
 through  = require 'through2'
 
 options =
@@ -61,14 +62,16 @@ renderSitemap = (content) ->
   template = fs.readFileSync("#{options.src}/sitemap.xml", 'utf8')
   new Buffer mustache.render template, {}, content: content
 
-gulp.task 'clean', -> del options.dist
+gulp.task 'clean', ->
+  gulp.src options.dist, {read: false}
+    .pipe clean()
 
 gulp.task 'misc', ['clean'], ->
   gulp.src("#{options.src}/CNAME").pipe gulp.dest(options.dist)
   gulp.src("#{options.src}/googlee887f98b5ed76460.html").pipe gulp.dest(options.dist)
   gulp.src("#{options.src}/robots.txt").pipe gulp.dest(options.dist)
 
-gulp.task 'buildAssets', ['clean', 'buildOptimizedImages'], ->
+gulp.task 'buildAssets', ['clean', 'buildOptimizedImages', 'buildOptimizedScripts'], ->
   gulp.src ["#{options.src}/assets/**/*", "!#{options.src}/assets/img/**/*"]
     .pipe gulp.dest "#{options.dist}/assets"
 
@@ -81,7 +84,11 @@ gulp.task 'buildCoffee', ['clean'], ->
   gulp.src "#{options.src}/**/*coffee"
     .pipe concat 'app.js'
     .pipe coffee bare: true
+    .pipe uglify()
     .pipe gulp.dest options.dist
+    .pipe rename 'app.min.js'
+    .pipe uglify()
+    .pipe gulp.dest options.dist;
 
 gulp.task 'buildMarkup', ['clean'], ->
   gulp.src "#{options.src}/templates/**/*html"
@@ -227,10 +234,16 @@ gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'build
   console.log "writing sitemap"
   fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
 
-gulp.task 'buildOptimizedImages', [], ->
+gulp.task 'buildOptimizedImages', ['clean'], ->
   gulp.src "#{options.src}/assets/img/**/*"
     .pipe imagemin()
     .pipe gulp.dest "#{options.dist}/assets/img"
+
+gulp.task 'buildOptimizedScripts', ['clean'], ->
+  gulp.src "#{options.src}/assets/js/**/*"
+    .pipe rename {extname:".min.js"}
+    .pipe uglify()
+    .pipe gulp.dest "#{options.dist}/assets/js"
 
 gulp.task 'build', ['misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog', 'buildSitemap']
 
