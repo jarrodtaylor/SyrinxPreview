@@ -142,7 +142,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       basename = path.basename chunk.path
       title = basename.replace('.md','').split('-').slice(1).join(' ').trim()
       archive_title = title;
-      bodyClass = 'blog-post'
+      bodyClass = 'blog blog-post'
 
       if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx Blog'
