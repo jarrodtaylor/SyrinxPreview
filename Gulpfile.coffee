@@ -154,6 +154,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       meta._file = basename
       meta.title = title || options.default_title
       meta.archive_title = archive_title || ''
+      meta.billboard = 'Sharing Our Ideas'
       meta.endpoint = basename.replace('.md', '.html').split('-').slice(1).join('-').toLowerCase()
       meta.canonical = options.base_url + 'blog/' + meta.endpoint
       date = basename.split('-')[0]
@@ -176,7 +177,8 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
     title: 'Software Development Blog from Syrinx',
     description: "Syrinx's blog is where users can find news, insights, theories, and more from the Massachusetts software development firm.",
     canonical: options.base_url + 'blog/',
-    bodyClass: 'blog'
+    bodyClass: 'blog',
+    billboard: 'Sharing Our Ideas'
   }
 
   fs.readdir "#{options.src}/posts/", (err, files) ->
@@ -193,7 +195,8 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
   meta_blog_archives = {
     title: 'Syrinx Blog Archives',
     canonical: options.base_url + 'blog/archive.html',
-    bodyClass: 'blog-archive'
+    bodyClass: 'blog-archive',
+    billboard: 'Sharing Our Ideas'
   }
   archive_list = archive_list.reverse()
   archive = ""
