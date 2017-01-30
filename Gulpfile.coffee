@@ -142,7 +142,7 @@ gulp.task 'buildMarkdown', ['clean'], ->
       basename = path.basename chunk.path
       title = basename.replace('.md','').split('-').slice(1).join(' ').trim()
       archive_title = title;
-      bodyClass = 'blog-post'
+      bodyClass = 'blog blog-post'
 
       if title && title.length > 0
         title = toTitleCase(title) + ' | Syrinx Blog'
@@ -193,7 +193,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
   meta_blog_archives = {
     title: 'Syrinx Blog Archives',
     canonical: options.base_url + 'blog/archive.html',
-    bodyClass: 'blog-archive'
+    bodyClass: 'blog blog-archive'
   }
   archive_list = archive_list.reverse()
   archive = ""
