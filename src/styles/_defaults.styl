@@ -3,13 +3,14 @@ syrinx_orange = #fd9d27
 
 oswald = 'Oswald', sans-serif
 lato = 'Lato', sans-serif
+ 
+ html
+   font-size: 62.5%
+ 
+ 
+ html, button, input, select, textarea, .pure-g [class *= "pure-u"]
+   font-family: lato
 
-html
-  font-size: 62.5%
-
-
-html, button, input, select, textarea, .pure-g [class *= "pure-u"]
-  font-family: lato
 
 body
   font-size: 16px
@@ -19,33 +20,34 @@ body
   background-color: #333333
 
 h1
-  font-size: 32px
-  font-weight: 500
-  margin-bottom: 0.83em
+ 	font-size: 32px
+ 	font-weight: 500
+ 	margin-bottom: 0.83em
+ 
+ h2
+ 	font-size: 24px
+ 	font-weight: 500
+ 	margin-bottom: 0.83em
+ 
+ h3
+    font-size: 16px
+    font-weight: 500
+ 
+ h4,h5,h6
+    font-size: 16px
+    font-weight: 500
+ 
+ p
+   font-size: 16px
+ 
+ clearfix() {
+   &::after {
+     content: " ";
+     display: block;
+     clear: both;
+   }
+ }
+ 
+ .clearfix
+   clearfix() 
 
-h2
-  font-size: 24px
-  font-weight: 500
-  margin-bottom: 0.83em
-
-h3
-  font-size: 16px
-  font-weight: 500
-
-h4,h5,h6
-  font-size: 16px
-  font-weight: 500
-
-p
-  font-size: 16px
-
-clearfix() {
-  &::after {
-    content: " ";
-    display: block;
-    clear: both;
-  }
-}
-
-.clearfix
-  clearfix()
