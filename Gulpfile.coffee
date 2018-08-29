@@ -190,7 +190,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
         index += '<hr />'
     index = index.replace(/<h1(.*?)<\/h1>/ig, '<h2 class="h1"$1</h2>')
     fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
-    fs.writeFile "#{options.dist}/blog/index.html", render renderBlogIndex(index).toString(), meta_blog
+    fs.writeFile "#{options.dist}/blog/index.html", render(renderBlogIndex(index).toString(), meta_blog), () ->
 
   meta_blog_archives = {
     title: 'Syrinx Blog Archives',
@@ -204,7 +204,7 @@ gulp.task 'buildBlog', ['buildMarkdown'], ->
     do (meta) ->
       archive += "<p class='searchable'><strong>#{meta.date}</strong> <a href='/blog/#{meta.endpoint}'>#{meta.archive_title}</a></p>"
   fs.mkdirSync("#{options.dist}/blog") unless fs.existsSync("#{options.dist}/blog")
-  fs.writeFile "#{options.dist}/blog/archive.html", render renderBlog(archive).toString(), meta_blog_archives
+  fs.writeFile "#{options.dist}/blog/archive.html", render(renderBlog(archive).toString(), meta_blog_archives), () ->
 
 gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'buildCoffee', 'buildMarkup', 'buildBlog'], ->
   console.log "building sitemap"
@@ -234,7 +234,7 @@ gulp.task 'buildSitemap', ['clean', 'misc', 'buildAssets', 'buildStylus', 'build
 
       sitemap_list += "<url><loc>#{canonical}</loc><lastmod>#{lastmod}</lastmod></url>"
   console.log "writing sitemap"
-  fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString()
+  fs.writeFile "#{options.dist}/sitemap.xml", renderSitemap(sitemap_list).toString(), () ->
 
 gulp.task 'buildOptimizedImages', ['clean'], ->
   gulp.src "#{options.src}/assets/img/**/*"
