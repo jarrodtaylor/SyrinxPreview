@@ -29,3 +29,30 @@ insertMarkdown = (from, into) ->
 if window.deferredInline
   window.deferredInline.forEach (runnable) ->
     runnable()
+
+getUnderservedEpisodeID = () ->
+  xhr = new XMLHttpRequest()
+  xhr.open('GET', "http://underserved.libsyn.com/")
+  xhr.onreadystatechange = () ->
+    if (xhr.readyState == 4)
+      id = xhr.responseText.match(/id\/(.*?)\/height/g)[0]
+        .replace('id/', '')
+        .replace('/height', '')
+      document.getElementById("underserved-player").setAttribute('src', "//html5-player.libsyn.com/embed/episode/id/#{id}/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/")
+  xhr.send()
+
+getUnderservedEpisodeTitle = () ->
+  xhr = new XMLHttpRequest()
+  xhr.open('GET', "https://underserved.libsyn.com/rss")
+  xhr.onreadystatechange = () ->
+    if (xhr.readyState == 4)
+      title = xhr.responseText.match(/<itunes:title>(.*?)\<\/itunes:title>/g)[0]
+        .replace('<itunes:title>', '')
+        .replace('</itunes:title>', '')
+      document.getElementById("underserved-title").innerHTML = "What's New: Underserved, #{title}"
+  xhr.send()
+
+underserved = document.getElementById("underserved")
+if underserved != null
+  getUnderservedEpisodeID()
+  getUnderservedEpisodeTitle()
