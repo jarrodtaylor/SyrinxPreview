@@ -41,7 +41,7 @@ getUnderservedEpisodeID = () ->
       document.getElementById("underserved-player").setAttribute('src', "//html5-player.libsyn.com/embed/episode/id/#{id}/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/87A93A/")
   xhr.send()
 
-getUnderservedEpisodeTitle = () ->
+getUnderservedEpisodeTitleAndDescription = () ->
   xhr = new XMLHttpRequest()
   xhr.open('GET', "https://underserved.libsyn.com/rss")
   xhr.onreadystatechange = () ->
@@ -49,10 +49,14 @@ getUnderservedEpisodeTitle = () ->
       title = xhr.responseText.match(/<itunes:title>(.*?)\<\/itunes:title>/g)[0]
         .replace('<itunes:title>', '')
         .replace('</itunes:title>', '')
+      description = xhr.responseText.match(/<description><!\[CDATA\[<div>(.*?)\<\/div>/g)[0]
+        .replace('<description><![CDATA[<div>', '')
+        .replace('</div>', '')
       document.getElementById("underserved-title").innerHTML = "What's New: Underserved, #{title}"
+      document.getElementById("underserved-description").innerHTML = description
   xhr.send()
 
 underserved = document.getElementById("underserved")
 if underserved != null
   getUnderservedEpisodeID()
-  getUnderservedEpisodeTitle()
+  getUnderservedEpisodeTitleAndDescription()
