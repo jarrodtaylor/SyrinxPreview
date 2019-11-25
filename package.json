@@ -30,6 +30,7 @@
     "through2": "^2.0.1"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-filenames": "^4.0.0"
   }
 }
