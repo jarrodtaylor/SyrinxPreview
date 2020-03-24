@@ -1,0 +1,19 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "npm install"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "rm -rf node_modules"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "gulp"
+    }
+  },
+  "identifier" : "1C21EC21-9CFA-49B4-951A-566F506E58B7",
+  "openLogOnRun" : "start",
+  "runsCreateIndividualLogs" : true
+}

@@ -1,0 +1,11 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "gulp deploy"
+    }
+  },
+  "identifier" : "68BD1F91-6C13-4CB1-A6F5-46FA18877DC6",
+  "openLogOnRun" : "start",
+  "runsCreateIndividualLogs" : true
+}
