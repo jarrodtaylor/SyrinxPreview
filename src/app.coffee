@@ -49,9 +49,9 @@ getUnderservedEpisodeTitleAndDescription = () ->
       title = xhr.responseText.match(/<itunes:title>(.*?)\<\/itunes:title>/g)[0]
         .replace('<itunes:title>', '')
         .replace('</itunes:title>', '')
-      description = xhr.responseText.match(/<description><!\[CDATA\[<p>(.*?)\<\/p>/g)[0]
-        .replace('<description><![CDATA[<div>', '')
-        .replace('</div>', '')
+      description = xhr.responseText.match(/<description><!\[CDATA\[(.*?)]]><\/description>/g)[1]
+        .replace('<description><![CDATA[', '')
+        .replace(']]></description>', '')
       document.getElementById("underserved-title").innerHTML = "What's New: Underserved, #{title}"
       document.getElementById("underserved-description").innerHTML = description
   xhr.send()
