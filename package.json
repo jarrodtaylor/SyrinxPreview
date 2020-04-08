@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "gulp build"
+    "preinstall": "npx npm-force-resolutions"
   },
   "author": "",
   "license": "ISC",
@@ -32,5 +32,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-filenames": "^4.0.0"
+  },
+  "resolutions": {
+    "graceful-fs": "4.2.2"
   }
 }
