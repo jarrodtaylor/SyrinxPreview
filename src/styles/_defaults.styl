@@ -3,11 +3,11 @@ syrinx_orange = #fd9d27
 
 oswald = 'Oswald', sans-serif
 lato = 'Lato', sans-serif
- 
+
  html
    font-size: 62.5%
- 
- 
+
+
  html, button, input, select, textarea, .pure-g [class *= "pure-u"]
    font-family: lato
 
@@ -23,23 +23,23 @@ h1
  	font-size: 32px
  	font-weight: 500
  	margin-bottom: 0.83em
- 
+
  h2
  	font-size: 24px
  	font-weight: 500
  	margin-bottom: 0.83em
- 
+
  h3
     font-size: 16px
     font-weight: 500
- 
+
  h4,h5,h6
     font-size: 16px
     font-weight: 500
- 
+
  p
    font-size: 16px
- 
+
  clearfix() {
    &::after {
      content: " ";
@@ -47,7 +47,33 @@ h1
      clear: both;
    }
  }
- 
- .clearfix
-   clearfix() 
 
+ .clearfix
+   clearfix()
+
+#gdpr
+  box-shadow: 0 0 4px #777
+  background-color: lightyellow
+  color: black
+  position: fixed
+  bottom: 0em
+  left: 0em
+  right: 0em
+  text-align: center
+  z-index: 9147483647
+  font-size: .8em
+  display: none
+
+  a
+    color: black
+    font-weight: bold
+
+  a#allowGDPR
+    background-color: #FE9D27
+    display: inline-block
+    color: white
+    text-decoration: none
+    padding: .5em 1em
+
+#gdpr.visible
+  display: block

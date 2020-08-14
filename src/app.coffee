@@ -60,3 +60,13 @@ underserved = document.getElementById("underserved")
 if underserved != null
   getUnderservedEpisodeID()
   getUnderservedEpisodeTitleAndDescription()
+
+acceptGDPR = () ->
+  document.getElementById("gdpr").classList.remove("visible")
+  document.cookie = "gdpr=allow"
+
+acceptedGDPR = () ->
+  document.cookie.includes("gdpr=allow")
+
+if (!acceptedGDPR())
+ document.getElementById("gdpr").classList.add("visible")
