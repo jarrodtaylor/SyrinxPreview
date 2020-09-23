@@ -32,7 +32,7 @@ if window.deferredInline
 
 getUnderservedEpisodeID = () ->
   xhr = new XMLHttpRequest()
-  xhr.open('GET', "http://underserved.libsyn.com/")
+  xhr.open('GET', "https://underserved.libsyn.com/")
   xhr.onreadystatechange = () ->
     if (xhr.readyState == 4)
       id = xhr.responseText.match(/id\/(.*?)\/height/g)[0]
